@@ -17,7 +17,7 @@
 
 ### Day 3: Outside of class
 
-- Read [The rest of the Java for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=670958) for a potential reading quiz next class. Be sure you are logged in and do all activities to get credit!
+- Read [The rest of the Java for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=671035) for a potential reading quiz next class. Be sure you are logged in and do all activities to get credit!
 
 ## No class: Monday, January 15, 2024 - Enjoy MLK Day!
 
