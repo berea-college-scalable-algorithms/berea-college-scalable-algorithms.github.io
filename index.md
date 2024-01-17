@@ -6,6 +6,19 @@
 
 ---
 
+## Day 3: Wednesday, January 17, 2024
+
+### Day 3: In class
+
+- Discuss Java readings
+- Live coding in textbook as suggested by an  of our CS3 book to see what is going on in the textbook
+- Continue the work with your partner on  the [Codewars](https://www.codewars.com/)  "convert string to camel case" kata in both C++ and Python. 
+- Demos
+
+### Day 3: Outside of class
+
+- Read [The rest of the Java for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=670958) for a potential reading quiz next class. Be sure you are logged in and do all activities to get credit!
+
 ## No class: Monday, January 15, 2024 - Enjoy MLK Day!
 
 ## Day 2: Friday, January 12, 2024
