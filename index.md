@@ -6,14 +6,24 @@
 
 ---
 
+## Day 4: Friday, January 19, 2024
+
+### Day 4: In class
+
+- Discuss main textbook issues/fixes
+- Work with your current partner on [T01: Exploring Java](https://docs.google.com/document/d/1IiqEj6HB3umbM3TakASl9n344sPt3BwgNQjdcNQ_l5M/edit?usp=sharing) which should help you wrap your mind around Java.
+
+### Day 4: Outside of class
+
+- Read the first four sections of [Chapter 2 Design](https://canvas.instructure.com/courses/8407744)
+
 ## Day 3: Wednesday, January 17, 2024
 
 ### Day 3: In class
 
 - Discuss Java readings
 - Live coding in textbook as suggested by an  of our CS3 book to see what is going on in the textbook
-- Continue the work with your partner on  the [Codewars](https://www.codewars.com/)  "convert string to camel case" kata in both C++ and Python. 
-- Demos
+- Continue the work with your partner on  the [Codewars](https://www.codewars.com/)  "convert string to camel case" kata in both C++ and Python.
 
 ### Day 3: Outside of class
 
