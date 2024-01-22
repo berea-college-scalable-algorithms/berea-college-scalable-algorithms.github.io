@@ -12,6 +12,7 @@
 
 - Discuss main textbook issues/fixes
 - Complete [T01: Exploring Java](https://docs.google.com/document/d/1IiqEj6HB3umbM3TakASl9n344sPt3BwgNQjdcNQ_l5M/edit?usp=sharing).
+- Complete [Codewars](https://www.codewars.com/) "convert string to camel case" kata in at least two languages, preferably Java and either C++ or Python.
 
 ### Day 5: Outside of class
 
