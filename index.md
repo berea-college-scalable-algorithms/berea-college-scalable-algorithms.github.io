@@ -6,6 +6,17 @@
 
 ---
 
+## Day 5: Monday, January 22, 2024
+
+### Day 5: In class
+
+- Discuss main textbook issues/fixes
+- Complete [T01: Exploring Java](https://docs.google.com/document/d/1IiqEj6HB3umbM3TakASl9n344sPt3BwgNQjdcNQ_l5M/edit?usp=sharing).
+
+### Day 5: Outside of class
+
+- Read 2.05 and 2.06 of [Chapter 2 Design](https://canvas.instructure.com/courses/8407744)
+
 ## Day 4: Friday, January 19, 2024
 
 ### Day 4: In class
