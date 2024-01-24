@@ -6,6 +6,19 @@
 
 ---
 
+## Day 6: Wednesday, January 24, 2024
+
+### Day 6: In class
+
+- Discuss [Codewars](https://www.codewars.com/) "convert string to camel case" kata.
+- Discuss main textbook issues/fixes
+- Begin [T02: Exploring OOP in Java](https://docs.google.com/document/d/1H4--8dZYHfARSpYszDCFsnjfrPNkyQax2_2AdEdIFgE/edit?usp=sharing).
+
+### Day 6: Outside of class
+
+- Read 02.07 The Dictionary ADT of [Chapter 2 Design](https://canvas.instructure.com/courses/8407744)
+
+
 ## Day 5: Monday, January 22, 2024
 
 ### Day 5: In class
