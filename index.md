@@ -13,7 +13,7 @@
 - Discuss Reading 06.01 and 06.02 of [Chapter 6](https://canvas.instructure.com/courses/8407744)
 - Complete [T03: Exploring Linked Lists in Java](https://docs.google.com/document/d/1trcf8DI5ENsqeMeBj2eRgZRAgjRZXIq33Q-ajCwrAAA/edit?usp=sharing).
 
-### Day 6: Outside of class
+### Day 8: Outside of class
 
 - Read 06.03 and 06.04 of [Chapter 6 Linear Structures Revisited](https://canvas.instructure.com/courses/8407744)
 
