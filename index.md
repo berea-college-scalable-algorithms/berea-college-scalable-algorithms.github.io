@@ -6,6 +6,17 @@
 
 ---
 
+## Day 8: Monday, January 29, 2024
+
+### Day 8: In class
+
+- Discuss Reading 06.01 and 06.02 of [Chapter 6](https://canvas.instructure.com/courses/8407744)
+- Complete [T03: Exploring Linked Lists in Java](https://docs.google.com/document/d/1trcf8DI5ENsqeMeBj2eRgZRAgjRZXIq33Q-ajCwrAAA/edit?usp=sharing).
+
+### Day 6: Outside of class
+
+- Read 06.03 and 06.04 of [Chapter 6 Linear Structures Revisited](https://canvas.instructure.com/courses/8407744)
+
 ## Day 7: Friday, January 26, 2024
 
 ### Day 7: In class
