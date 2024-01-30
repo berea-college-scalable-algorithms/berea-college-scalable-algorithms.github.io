@@ -16,6 +16,7 @@
 ### Day 8: Outside of class
 
 - Read 06.03 and 06.04 of [Chapter 6 Linear Structures Revisited](https://canvas.instructure.com/courses/8407744)
+- Do your best to try to complete [Hex Class](https://www.codewars.com/kata/5483366098aa442def0009af). You will likely get a weird error on the equal method. Everything else is reasonably straightforward.
 
 ## Day 7: Friday, January 26, 2024
 
