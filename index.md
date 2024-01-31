@@ -6,12 +6,25 @@
 
 ---
 
+## Day 9: Wednesday, January 31, 2024
+
+### Day 9: In class
+
+- Discuss [Hex Class](https://www.codewars.com/kata/5483366098aa442def0009af).
+- Discuss 06.03 and 06.04 of [Chapter 6 Linear Structures Revisited](https://canvas.instructure.com/courses/8407744)
+- Complete [T03: Exploring Linked Lists in Java](https://docs.google.com/document/d/1trcf8DI5ENsqeMeBj2eRgZRAgjRZXIq33Q-ajCwrAAA/edit?usp=sharing). When done, work on the assigned Codewars katas.
+
+### Day 9: Outside of class
+
+- Read 06.05, 06.06, and 6.07 of [Chapter 6 Linear Structures Revisited](https://canvas.instructure.com/courses/8407744)
+- Complete [Hex Class](https://www.codewars.com/kata/5483366098aa442def0009af).
+
 ## Day 8: Monday, January 29, 2024
 
 ### Day 8: In class
 
 - Discuss Reading 06.01 and 06.02 of [Chapter 6](https://canvas.instructure.com/courses/8407744)
-- Complete [T03: Exploring Linked Lists in Java](https://docs.google.com/document/d/1trcf8DI5ENsqeMeBj2eRgZRAgjRZXIq33Q-ajCwrAAA/edit?usp=sharing).
+- Begin [T03: Exploring Linked Lists in Java](https://docs.google.com/document/d/1trcf8DI5ENsqeMeBj2eRgZRAgjRZXIq33Q-ajCwrAAA/edit?usp=sharing).
 
 ### Day 8: Outside of class
 
