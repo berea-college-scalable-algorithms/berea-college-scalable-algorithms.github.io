@@ -6,6 +6,18 @@
 
 ---
 
+# Day 10: Friday, February 2, 2024
+
+### Day 10: In class
+
+- Discuss 06.05, 06.06, and 6.07 of [Chapter 6 Linear Structures Revisited](https://canvas.instructure.com/courses/8407744)
+- Complete [Exploring Arrays in Java](https://docs.google.com/document/d/1iwl8aGKsznkB6io_0HSPnzi8VvBDK3RrAO-P3mRFrIM/edit?usp=sharing). When done, work on the assigned Codewars katas.
+
+### Day 10: Outside of class
+
+- Read 06.08, 6.09, and 6.10 of [Chapter 6 Linear Structures Revisited](https://canvas.instructure.com/courses/8407744)
+- Work on the katas in Codewars. Ask questions in Slack if you get stuck.
+
 ## Day 9: Wednesday, January 31, 2024
 
 ### Day 9: In class
