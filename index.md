@@ -6,6 +6,17 @@
 
 ---
 
+# Day 11: Monday, February 5, 2024
+
+### Day 11: In class
+
+- Complete [Exploring Arrays in Java](https://docs.google.com/document/d/1iwl8aGKsznkB6io_0HSPnzi8VvBDK3RrAO-P3mRFrIM/edit?usp=sharing).
+- When you finish the teamwork, work on the assigned Codewars katas.
+
+### Day 11: Outside of class
+
+- Read 06.11, 6.12, and 6.13 of [Chapter 6 Linear Structures Revisited](https://canvas.instructure.com/courses/8407744)
+
 # Day 10: Friday, February 2, 2024
 
 ### Day 10: In class
