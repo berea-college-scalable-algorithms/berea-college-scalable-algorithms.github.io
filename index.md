@@ -6,16 +6,20 @@
 
 ---
 
+# Announcement: Our first exam will be coming soon!
+
 # Day 12: Wednesday, February 7, 2024
 
 ### Day 12: In class
 
+- Discuss readings
 - Complete [Exploring Queues in Java](https://docs.google.com/document/d/1WP-AFd7VKob6CoQecHNLURYNHbC8tywi9SCEQT8Siqc/edit?usp=sharing).
 - When you finish the teamwork, work on the assigned Codewars katas.
 
 ### Day 12: Outside of class
 
 - Complete 6.14 of [Chapter 6 Linear Structures Revisited](https://canvas.instructure.com/courses/8407744)
+- Work on the katas in Codewars. Ask questions in Slack if you get stuck. We will be discussing them all on Monday.
 
 # Day 11: Monday, February 5, 2024
 
