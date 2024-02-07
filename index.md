@@ -6,11 +6,22 @@
 
 ---
 
+# Day 12: Wednesday, February 7, 2024
+
+### Day 12: In class
+
+- Complete [Exploring Queues in Java](https://docs.google.com/document/d/1WP-AFd7VKob6CoQecHNLURYNHbC8tywi9SCEQT8Siqc/edit?usp=sharing).
+- When you finish the teamwork, work on the assigned Codewars katas.
+
+### Day 12: Outside of class
+
+- Complete 6.14 of [Chapter 6 Linear Structures Revisited](https://canvas.instructure.com/courses/8407744)
+
 # Day 11: Monday, February 5, 2024
 
 ### Day 11: In class
 
-- Complete [Exploring Arrays in Java](https://docs.google.com/document/d/1iwl8aGKsznkB6io_0HSPnzi8VvBDK3RrAO-P3mRFrIM/edit?usp=sharing).
+- Complete [Exploring Stacks in Java](https://docs.google.com/document/d/1iwl8aGKsznkB6io_0HSPnzi8VvBDK3RrAO-P3mRFrIM/edit?usp=sharing).
 - When you finish the teamwork, work on the assigned Codewars katas.
 
 ### Day 11: Outside of class
