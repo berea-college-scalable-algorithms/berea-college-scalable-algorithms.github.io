@@ -6,7 +6,20 @@
 
 ---
 
-# Announcement: Our first exam will be coming soon!
+# Announcement: Our first exam will be Friday, February 16, 2024
+
+- The first exam will true/false, multiple choice, short answer, and 3 kata-type problems that you have never seen but that are similar to the katas you have been assigned. You will have 2 choose two of the kata-like problems and write Java-like peudocode algorithms to solve them.
+
+# Day 14: Monday, February 12, 2024
+
+### Day 14: In class
+
+- Complete [TR1: Peerwise Review for Exam E1](https://docs.google.com/document/d/1yboGCOxNVY2PEyP34Q-UjQeBNJT_LJA43pqvjHB3w3U/edit?usp=sharing).
+
+### Day 14: Outside of class
+
+- Work on completing the katas in Codewars before next time. Ask questions in Slack if you get stuck.
+- Study for the first exam, E1. Review the readings, the Peerwise questions, and the katas. Ask questions in Slack if you have them.
 
 # Day 13: Friday, February 9, 2024
 
