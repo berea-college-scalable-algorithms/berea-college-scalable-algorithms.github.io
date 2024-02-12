@@ -8,7 +8,7 @@
 
 # Announcement: Our first exam will be Friday, February 16, 2024
 
-- The first exam will true/false, multiple choice, short answer, and 3 kata-type problems that you have never seen but that are similar to the katas you have been assigned. You will have 2 choose two of the kata-like problems and write Java-like peudocode algorithms to solve them.
+- The first exam will include true/false, multiple choice, short answer, and 3 kata-type problems that you have never seen but that are similar to the katas you have been assigned. You will have 2 choose two of the kata-like problems and write Java-like peudocode algorithms to solve them.
 
 # Day 14: Monday, February 12, 2024
 
