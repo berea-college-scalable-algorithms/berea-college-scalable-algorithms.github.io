@@ -6,6 +6,26 @@
 
 ---
 
+# Day 17: Monday, February 19, 2024
+
+### Day 17: In class
+
+- Complete [Exploring Binary Trees in Java](https://docs.google.com/document/d/1_NVy_FHsUV3NOigZFfP209tigG4UnCKfjlLMA78wb9Q/edit?usp=sharing).
+
+### Day 17: Outside of class
+
+- Complete 10.01, 10.01, 10.03, and 10.04 of [Chapter 10 Binary Trees](https://canvas.instructure.com/courses/8407744)
+
+# Day 16: Friday, February 16, 2024
+
+### Day 16: In class
+
+- Exam E1
+
+### Day 16: Outside of class
+
+- No homework. Enjoy your weekend!
+
 # Announcement: Our first exam will be Friday, February 16, 2024
 
 - The first exam will include true/false, multiple choice, short answer, and 3 kata-type problems that you have never seen but that are similar to the katas you have been assigned. You will have 2 choose two of the kata-like problems and write Java-like pseudocode algorithms to solve them.
