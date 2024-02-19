@@ -14,7 +14,7 @@
 
 ### Day 17: Outside of class
 
-- Complete 10.01, 10.01, 10.03, and 10.04 of [Chapter 10 Binary Trees](https://canvas.instructure.com/courses/8407744)
+- Complete 10.01, 10.02, 10.03, and 10.04 of [Chapter 10 Binary Trees](https://canvas.instructure.com/courses/8407744)
 
 # Day 16: Friday, February 16, 2024
 
