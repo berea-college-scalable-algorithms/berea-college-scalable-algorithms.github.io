@@ -6,11 +6,23 @@
 
 ---
 
+# Day 18: Wednesday, February 21, 2024
+
+### Day 18: In class
+
+- Complete [Exploring Binary Trees in Java](https://docs.google.com/document/d/1_NVy_FHsUV3NOigZFfP209tigG4UnCKfjlLMA78wb9Q/edit?usp=sharing).
+- When done with the teamwork, make an account on Leetcode and try one or more of the following:
+  - [Binary Tree problems](https://leetcode.com/tag/binary-tree/). You can filter by difficulty and by topic. Try to solve at least one problem and submit your solution to Leetcode. You can use Java, C++, or Python, but you should eventually try to solve the problems in Java.
+
+### Day 18: Outside of class
+
+- Complete 10.05, 10.06, 10.07 and 10.08 of [Chapter 10 Binary Trees](https://canvas.instructure.com/courses/8407744)
+
 # Day 17: Monday, February 19, 2024
 
 ### Day 17: In class
 
-- Complete [Exploring Binary Trees in Java](https://docs.google.com/document/d/1_NVy_FHsUV3NOigZFfP209tigG4UnCKfjlLMA78wb9Q/edit?usp=sharing).
+- Begin [Exploring Binary Trees in Java](https://docs.google.com/document/d/1_NVy_FHsUV3NOigZFfP209tigG4UnCKfjlLMA78wb9Q/edit?usp=sharing).
 
 ### Day 17: Outside of class
 
