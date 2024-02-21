@@ -6,7 +6,7 @@
 
 ---
 
-# Day 18: Wednesday, February 21, 2024
+## Day 18: Wednesday, February 21, 2024
 
 ### Day 18: In class
 
@@ -18,7 +18,7 @@
 
 - Complete 10.05, 10.06, 10.07 and 10.08 of [Chapter 10 Binary Trees](https://canvas.instructure.com/courses/8407744)
 
-# Day 17: Monday, February 19, 2024
+## Day 17: Monday, February 19, 2024
 
 ### Day 17: In class
 
@@ -28,7 +28,7 @@
 
 - Complete 10.01, 10.02, 10.03, and 10.04 of [Chapter 10 Binary Trees](https://canvas.instructure.com/courses/8407744)
 
-# Day 16: Friday, February 16, 2024
+## Day 16: Friday, February 16, 2024
 
 ### Day 16: In class
 
@@ -42,7 +42,7 @@
 
 - The first exam will include true/false, multiple choice, short answer, and 3 kata-type problems that you have never seen but that are similar to the katas you have been assigned. You will have 2 choose two of the kata-like problems and write Java-like pseudocode algorithms to solve them.
 
-# Day 15: Wednesday, February 14, 2024
+## Day 15: Wednesday, February 14, 2024
 
 ### Day 15: In class
 
@@ -54,7 +54,7 @@
 
 - Study for the exam, E1. Review the readings, the Peerwise questions, and the katas. Ask questions in Slack if you have them.
 
-# Day 14: Monday, February 12, 2024
+## Day 14: Monday, February 12, 2024
 
 ### Day 14: In class
 
@@ -65,7 +65,7 @@
 - Work on completing the katas in Codewars before next time. Ask questions in Slack if you get stuck.
 - Study for the first exam, E1. Review the readings, the Peerwise questions, and the katas. Ask questions in Slack if you have them.
 
-# Day 13: Friday, February 9, 2024
+## Day 13: Friday, February 9, 2024
 
 ### Day 13: In class
 
@@ -78,7 +78,7 @@
 - Complete 6.14 of [A02: Individual E1 Review and Reflection](https://docs.google.com/document/d/1IpJMFthje7DXL2qHoPg5pmB88AOYrenHzmp-Iqmm7Ko/edit?usp=sharing)
 - Work on completing the katas in Codewars. Ask questions in Slack if you get stuck. We will be discussing them all soon!
 
-# Day 12: Wednesday, February 7, 2024
+## Day 12: Wednesday, February 7, 2024
 
 ### Day 12: In class
 
@@ -91,7 +91,7 @@
 - Complete 6.14 of [Chapter 6 Linear Structures Revisited](https://canvas.instructure.com/courses/8407744)
 - Work on the katas in Codewars. Ask questions in Slack if you get stuck. We will be discussing them all soon!
 
-# Day 11: Monday, February 5, 2024
+## Day 11: Monday, February 5, 2024
 
 ### Day 11: In class
 
@@ -102,7 +102,7 @@
 
 - Read 06.11, 6.12, and 6.13 of [Chapter 6 Linear Structures Revisited](https://canvas.instructure.com/courses/8407744)
 
-# Day 10: Friday, February 2, 2024
+## Day 10: Friday, February 2, 2024
 
 ### Day 10: In class
 
