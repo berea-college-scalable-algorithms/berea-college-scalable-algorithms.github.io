@@ -6,6 +6,17 @@
 
 ---
 
+## Day 19: Friday, February 23, 2024
+
+### Day 19 In class
+
+- Discussion of readings and exercises
+- Work on [Binary Tree problems](https://leetcode.com/tag/binary-tree/). 
+
+### Day 19: Outside of class
+
+- Complete 10.09, 10.10, 10.11 and 10.12 of [Chapter 10 Binary Trees](https://canvas.instructure.com/courses/8407744)
+
 ## Day 18: Wednesday, February 21, 2024
 
 ### Day 18: In class
