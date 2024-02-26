@@ -10,6 +10,7 @@
 
 ### Day 20 In class
 
+- Refreshing our memory on linked lists, section 6.04 of [Chapter 10 Binary Trees](https://canvas.instructure.com/courses/8407744)
 - Discussion of readings and exercises
 - Work on [Binary Tree problems](https://leetcode.com/tag/binary-tree/). 
 
