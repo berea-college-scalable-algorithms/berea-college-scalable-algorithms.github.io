@@ -6,6 +6,17 @@
 
 ---
 
+## Day 20: Monday, February 26, 2024
+
+### Day 20 In class
+
+- Discussion of readings and exercises
+- Work on [Binary Tree problems](https://leetcode.com/tag/binary-tree/). 
+
+### Day 20: Outside of class
+
+- Complete 10.13, 10.14, 10.15 and 10.16 of [Chapter 10 Binary Trees](https://canvas.instructure.com/courses/8407744)
+
 ## Day 19: Friday, February 23, 2024
 
 ### Day 19 In class
