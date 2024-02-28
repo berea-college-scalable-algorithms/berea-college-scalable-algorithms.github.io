@@ -6,13 +6,28 @@
 
 ---
 
+## Day 21: Wednesday, February 28, 2024
+
+### Day 21 In class
+
+- Work on Kata problems from the exam in the following order:
+- If time permits, work on [Binary Tree problems](https://leetcode.com/tag/binary-tree/).
+  - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/). This is a linked list traversal problem.
+  - [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/). This is a very easy ArrayList problem - don't let the unfamilar domain scare you.
+  - [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/). This can be done with just a char array or with one or two stacks.
+
+### Day 21: Outside of class
+
+- Complete 10.17 and 10.18 of [Chapter 10 Binary Trees](https://canvas.instructure.com/courses/8407744)
+- Work on [Binary Tree problems](https://leetcode.com/tag/binary-tree/).
+
 ## Day 20: Monday, February 26, 2024
 
 ### Day 20 In class
 
 - Refreshing our memory on linked lists, section 6.04 of [Chapter 10 Binary Trees](https://canvas.instructure.com/courses/8407744)
 - Discussion of readings and exercises
-- Work on [Binary Tree problems](https://leetcode.com/tag/binary-tree/). 
+- Work on [Binary Tree problems](https://leetcode.com/tag/binary-tree/).
 
 ### Day 20: Outside of class
 
