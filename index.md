@@ -11,10 +11,10 @@
 ### Day 21 In class
 
 - Work on Kata problems from the exam in the following order:
-- If time permits, work on [Binary Tree problems](https://leetcode.com/tag/binary-tree/).
   - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/). This is a linked list traversal problem.
   - [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/). This is a very easy ArrayList problem - don't let the unfamilar domain scare you.
   - [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/). This can be done with just a char array or with one or two stacks.
+- If time permits, work on [Binary Tree problems](https://leetcode.com/tag/binary-tree/).
 
 ### Day 21: Outside of class
 
