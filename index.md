@@ -6,6 +6,24 @@
 
 ---
 
+## Day 23: Monday, March 11, 2024
+
+### Day 23: In class
+
+- Discuss reading on Huffman Trees and the answers given in Slack.
+- Complete additional Kata problems from the exam in the order given below. DO NOT under any circumstances look at the solutions until you have worked hard to solve the problem yourself or you will circumvent your learning:
+  - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/). This is a linked list traversal problem.
+  - [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/). This is a very easy ArrayList problem - don't let the unfamiliar domain scare you. Note: Do NOT look at the solutions or use anything unusual. All you need are constructs you could have used in CSC 226.
+  - [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/). This can be done with just a char array or with one or two stacks.
+- If time permits, work on [Binary Tree problems](https://leetcode.com/tag/binary-tree/).
+
+### Day 23: Outside of class
+
+- Complete chapter 10 by completing 10.19, 10.20, and 10.21 of [Chapter 10 Binary Trees](https://canvas.instructure.com/courses/8407744)
+- Work on [Binary Tree problems](https://leetcode.com/tag/binary-tree/).
+
+## Enjoy your Spring Break!
+
 ## Day 22: Friday, March 1, 2024
 
 ### Day 22: In class
