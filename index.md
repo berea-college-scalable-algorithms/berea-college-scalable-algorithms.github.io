@@ -6,6 +6,23 @@
 
 ---
 
+## Day 24: Wednesday, March 11, 2024
+
+### Day 24: In class
+
+- Discuss next exam ideas
+- Discuss readings and exercises
+- Complete additional Kata problems from the exam in the order given below. DO NOT under any circumstances look at the solutions until you have worked hard to solve the problem yourself or you will circumvent your learning:
+  - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/). This is a linked list traversal problem.
+  - [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/). This is a very easy ArrayList problem - don't let the unfamiliar domain scare you. Note: Do NOT look at the solutions or use anything unusual. All you need are constructs you could have used in CSC 226.
+  - [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/). This can be done with just a char array or with one or two stacks.
+- If time permits, work on [Binary Tree problems](https://leetcode.com/tag/binary-tree/).
+
+### Day 24: Outside of class
+
+- Read Sections 11.01 and 11.02 of [Chapter 11 Indexing](https://canvas.instructure.com/courses/8407744)
+- Work on [Binary Tree problems](https://leetcode.com/tag/binary-tree/).
+
 ## Day 23: Monday, March 11, 2024
 
 ### Day 23: In class
