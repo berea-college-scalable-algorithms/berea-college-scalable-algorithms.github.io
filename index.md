@@ -4,7 +4,7 @@
 
 ### Berea College Spring 2024 Offering
 
-## Announcement: The next exam will be Wednesday, March 20, 2024
+## Announcement: The next exam will be Wednesday, March 27, 2024
 
 - The exam will cover the entirety of [Chapter 10 Binary Trees](https://canvas.instructure.com/courses/8407744). The exam will include a smaller amount of true/false, multiple choice, short answer questions than in the first exam, and, as before, will include 3 kata-type problems. You will have 2 choose two of the kata-like problems and write line-by-line Java-like pseudocode algorithms to solve them. Lines of pseudocode that cannot be easily translated to one single line of Java will receive minimal or no credit.
 
