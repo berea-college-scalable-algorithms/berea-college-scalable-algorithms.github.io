@@ -8,6 +8,20 @@
 
 - The exam will cover the entirety of [Chapter 10 Binary Trees](https://canvas.instructure.com/courses/8407744). The exam will include a smaller amount of true/false, multiple choice, short answer questions than in the first exam, and, as before, will include 3 kata-type problems. You will have 2 choose two of the kata-like problems and write line-by-line Java-like pseudocode algorithms to solve them. Lines of pseudocode that cannot be easily translated to one single line of Java will receive minimal or no credit.
 
+## Day 26: Monday, March 18, 2024
+
+### Day 26: In class
+
+- Discuss readings and exercises
+- Complete additional Kata problems from the exam in the order given below. DO NOT under any circumstances look at the solutions until you have worked hard to solve the problem yourself or you will circumvent your learning:
+  - [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/). This can be done with just a char array or with one or two stacks.
+- If time permits, work on [Binary Tree problems](https://leetcode.com/tag/binary-tree/).
+
+### Day 26: Outside of class
+
+- Read Sections 11.04, 11.05, and 11.06 of [Chapter 11 Indexing](https://canvas.instructure.com/courses/8407744)
+- Work on [Binary Tree problems](https://leetcode.com/tag/binary-tree/).
+
 ## Day 25: Friday, March 15, 2024
 
 ### Day 25: In class
