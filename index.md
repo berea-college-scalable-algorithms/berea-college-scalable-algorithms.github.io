@@ -14,11 +14,11 @@
 
 - Use technique of summarizing main points of the reading and then discussing the main points.
 - Discuss
-- Explore in [B-Tree Visualizer](https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html)
+- Explore in [B+ Tree Visualizer](https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html)
 
 ### Day 27: Outside of class
 
-- Complete Section 11.07 Indexing Summary Exercises, and read Section 12.01 General Trees in our [Textbook](https://canvas.instructure.com/courses/8407744) and 
+- Complete Section 11.07 Indexing Summary Exercises, and read Section 12.01 General Trees in our [Textbook](https://canvas.instructure.com/courses/8407744) 
 
 ## Day 26: Monday, March 18, 2024
 
