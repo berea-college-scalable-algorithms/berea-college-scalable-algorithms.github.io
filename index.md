@@ -8,6 +8,18 @@
 
 - The exam will cover the entirety of [Chapter 10 Binary Trees](https://canvas.instructure.com/courses/8407744). The exam will include a smaller amount of true/false, multiple choice, short answer questions than in the first exam, and, as before, will include 3 kata-type problems. You will have 2 choose two of the kata-like problems and write line-by-line Java-like pseudocode algorithms to solve them. Lines of pseudocode that cannot be easily translated to one single line of Java will receive minimal or no credit.
 
+## Day 27: Wednesday, March 20, 2024
+
+### Day 27: In class
+
+- Use technique of summarizing main points of the reading and then discussing the main points.
+- Discuss
+- Explore in [B-Tree Visualizer](https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html)
+
+### Day 27: Outside of class
+
+- Complete Section 11.07 Indexing Summary Exercises, and read Section 12.01 General Trees in our [Textbook](https://canvas.instructure.com/courses/8407744) and 
+
 ## Day 26: Monday, March 18, 2024
 
 ### Day 26: In class
