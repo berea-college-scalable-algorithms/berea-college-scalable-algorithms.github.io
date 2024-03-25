@@ -8,6 +8,20 @@
 
 - The exam will cover the entirety of [Chapter 10 Binary Trees](https://canvas.instructure.com/courses/8407744). The exam will include a smaller amount of true/false, multiple choice, short answer questions than in the first exam, and, as before, will include 3 kata-type problems. You will have 2 choose two of the kata-like problems and write line-by-line Java-like pseudocode algorithms to solve them. Lines of pseudocode that cannot be easily translated to one single line of Java will receive minimal or no credit.
 
+## Day 28: Monday, March 25, 2024
+
+### Day 28: In class
+
+- Use [https://www.bing.com/chat](https://www.bing.com/chat) to generate a set of multiple choice and true/false questions for the exam. Discuss the questions that were generated. Put all good questions into [https://peerwise.cs.auckland.ac.nz/](Peerwise) using the Course ID: 27132.  Note that getting good questions will require some prompt-engineering. **Do NOT put any questions that are unsuitable into the question bank! Questions that are obvious or too picky are unsuitable.**
+
+### Day 28: Outside of class
+
+- Study for the exam, E2. Review the readings, the Peerwise questions, and the katas. Ask questions in Slack if you have them.
+
+## Friday, March 22, 2024
+
+- Class cancelled due to too many students being away at conferences. Study for the upcoming exam by practicing on [https://leetcode.com/tag/binary-tree/](https://leetcode.com/tag/binary-tree/).
+
 ## Day 27: Wednesday, March 20, 2024
 
 ### Day 27: In class
