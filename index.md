@@ -10,7 +10,6 @@
 
 - Discuss readings
 - Work on Leetcode problems (where graphs are represented by adjacency lists or adjacency matrices). Start with these, and then move on to more interesting/difficult problems:
-  - [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)
   - [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
   - [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 
@@ -27,6 +26,7 @@
 - Today, we will begin looking at graphs.
 - Refresher on Graphs as a data structure
 - Leetcode problems (where graphs are represented by adjacency lists or adjacency matrices). Start with these, and then move on to more interesting/difficult problems:
+  - [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)
   - [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
   - [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 
