@@ -4,20 +4,35 @@
 
 ### Berea College Spring 2024 Offering
 
-## Day 30: Monday, April 1, 2024
+## Day 31: Wednesday, April 3, 2024
 
-### Day 30: In class
+### Day 31: In class
 
-- Discuss the the horrible Peerwise questions and the exam
-- Today, we will begin looking at graphs.
-- Refresher on Graphs as a data structure
-- Leetcode problems (where graphs are represented by adjacency lists or adjacency matrices). Start with these, and then move on to more interesting/difficult problems:
+- Discuss readings
+- Work on Leetcode problems (where graphs are represented by adjacency lists or adjacency matrices). Start with these, and then move on to more interesting/difficult problems:
   - [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)
   - [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
   - [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 
-### Day 28: Outside of class
-- Read [The first three sections of Chapter 12 Graphs](https://canvas.instructure.com/courses/8407744)
+### Day 31: Outside of class
+
+- Read [Section 13.04 and 13.05 of Chapter 13 Graphs](https://canvas.instructure.com/courses/8407744)
+
+## Day 30: Monday, April 1, 2024
+
+### Day 30: In class
+
+- Discuss readings
+- Discuss the the horrible Peerwise questions and the exam
+- Today, we will begin looking at graphs.
+- Refresher on Graphs as a data structure
+- Leetcode problems (where graphs are represented by adjacency lists or adjacency matrices). Start with these, and then move on to more interesting/difficult problems:
+  - [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
+  - [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
+
+### Day 30: Outside of class
+
+- Read [The first three sections of Chapter 13 Graphs](https://canvas.instructure.com/courses/8407744)
 
 ## Friday, March 29, 2024 is Good Friday - No Class - Enjoy your long weekend!
 
