@@ -4,6 +4,19 @@
 
 ### Berea College Spring 2024 Offering
 
+## Day 32: Friday, April 5, 2024
+
+### Day 32: In class
+
+- Discuss readings
+- Work on Leetcode problems (where graphs are represented by adjacency lists or adjacency matrices). Start with these, and then move on to more interesting/difficult problems:
+  - Discuss [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
+  - Design [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
+
+### Day 32: Outside of class
+
+- Read [Section 13.06 and 13.07 of Chapter 13 Graphs](https://canvas.instructure.com/courses/8407744)
+
 ## Day 31: Wednesday, April 3, 2024
 
 ### Day 31: In class
