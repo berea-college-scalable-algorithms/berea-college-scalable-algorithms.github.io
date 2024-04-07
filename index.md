@@ -4,6 +4,14 @@
 
 ### Berea College Spring 2024 Offering
 
+## Day 33: Monday, April 8, 2024
+
+### Class is cancelled for the solar eclipse. Readings are NOT cancelled!
+
+### Day 33: Outside of class
+
+- Read [The Section 13.08 summary of Graphs AND 14.01 and 14.02 on Skip Lists and other structures](https://canvas.instructure.com/courses/8407744)
+
 ## Day 32: Friday, April 5, 2024
 
 ### Day 32: In class
