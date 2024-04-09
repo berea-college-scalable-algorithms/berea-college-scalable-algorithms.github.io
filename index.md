@@ -4,6 +4,14 @@
 
 ### Berea College Spring 2024 Offering
 
+## Day 34: Wednesday, April 10, 2024
+
+### Class is cancelled to facilitate celebrating the end of Ramadan. Eid Mubarak!. Readings are NOT cancelled!
+
+### Day 34: Outside of class
+
+- Read [Section 4.03 and 4.04 on Quad Trees and KD Trees](https://canvas.instructure.com/courses/8407744)
+
 ## Day 33: Monday, April 8, 2024
 
 ### Class is cancelled for the solar eclipse. Readings are NOT cancelled!
