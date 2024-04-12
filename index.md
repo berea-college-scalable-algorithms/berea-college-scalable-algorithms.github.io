@@ -4,13 +4,26 @@
 
 ### Berea College Spring 2024 Offering
 
+## Day 35: Friday, April 12, 2024
+
+### Day 35: In class
+
+- Discuss Readings from [Chapter 14](https://canvas.instructure.com/courses/8407744)
+- Work on Leetcode problems for tree structures. Start with these, and then move on to more interesting/difficult problems:
+  - Discuss [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
+  - Discuss [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)
+
+### Day 35: Outside of class
+
+- Read [Section 14.05 and 14.06 on Bin Trees and other structures](https://canvas.instructure.com/courses/8407744)
+
 ## Day 34: Wednesday, April 10, 2024
 
 ### Class is cancelled to facilitate celebrating the end of Ramadan. Eid Mubarak! Readings are NOT cancelled!
 
 ### Day 34: Outside of class
 
-- Read [Section 4.03 and 4.04 on Quad Trees and KD Trees](https://canvas.instructure.com/courses/8407744)
+- Read [Section 14.03 and 14.04 on Quad Trees and KD Trees](https://canvas.instructure.com/courses/8407744)
 
 ## Day 33: Monday, April 8, 2024
 
