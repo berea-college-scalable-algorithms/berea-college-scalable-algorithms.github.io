@@ -4,6 +4,34 @@
 
 ### Berea College Spring 2024 Offering
 
+## Day 36: Monday, April 15, 2024
+
+### Day 36: In class
+
+- Project discussion:
+  - Develop Codewars kata using one of the new data structures. This will require:
+    - A problem statement with examples
+    - An exemplar solution in Java and at least one other language
+    - unit tests for the exemplar solution
+  - New data structures include:
+    - Freelists
+    - 2-3 Trees
+    - B Trees
+    - Tries
+    - Huffman Coding Trees
+    - Skip Lists
+    - PR Quad Trees
+    - KD Trees
+    - Bin Trees
+    - Others?
+  Discuss what other requirements there should be
+  
+  
+### Day 36: Outside of class
+
+- Complete Leetcode problem:
+  - Implement [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
+
 ## Day 35: Friday, April 12, 2024
 
 ### Day 35: In class
