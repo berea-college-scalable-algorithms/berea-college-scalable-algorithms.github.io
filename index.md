@@ -33,6 +33,7 @@
 
 - Complete Leetcode problem:
   - Implement [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
+- Form a team of 2-3 students and begin thinking about the project. Choose several data structures from the about list so we can choose in the next class.
 
 ## Day 35: Friday, April 12, 2024
 
