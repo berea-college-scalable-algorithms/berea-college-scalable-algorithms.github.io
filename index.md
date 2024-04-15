@@ -9,12 +9,13 @@
 ### Day 36: In class
 
 - Project discussion:
-  - Develop Codewars kata using one of the new data structures. This will require:
+  - Working in teams of 2-3 students, develop Codewars kata using one of the new data structures. This will require:
     - A problem statement with examples
     - An exemplar solution in Java and at least one other language
     - unit tests for the exemplar solution
+    - presentation of exemplar solution
+    - milestones to be met
   - New data structures include:
-    - Freelists
     - 2-3 Trees
     - B Trees
     - Tries
@@ -23,8 +24,9 @@
     - PR Quad Trees
     - KD Trees
     - Bin Trees
+    - Sets used by new algorithms
     - Others?
-  Discuss what other requirements there should be
+  Discuss what other requirements there should be...
   
   
 ### Day 36: Outside of class
