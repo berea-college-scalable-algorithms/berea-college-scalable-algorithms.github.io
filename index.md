@@ -4,6 +4,18 @@
 
 ### Berea College Spring 2024 Offering
 
+## Day 37: Wednesday, April 17, 2024
+
+### Day 37: In class
+
+- Discuss date of final exam
+- Choose key data structure for project. See [Project Requirements](https://docs.google.com/document/d/1rsuzrkQF1zygNBlXjjdzeRTpnXeGABqdOnfiOkepBvI/edit?usp=sharing).
+- Complete [FP1 Initial Project Planning](https://docs.google.com/document/d/1v9CQfyYWY91OqjPE5J1aNQArElUV_kJgYcBC4CuWJc8/edit?usp=sharing).
+
+### Day 37: Outside of class
+
+- Complete homework from [FP1 Initial Project Planning](https://docs.google.com/document/d/1v9CQfyYWY91OqjPE5J1aNQArElUV_kJgYcBC4CuWJc8/edit?usp=sharing).
+
 ## Day 36: Monday, April 15, 2024
 
 ### Day 36: In class
@@ -27,7 +39,6 @@
     - Sets used by new algorithms
     - Others?
   Discuss what other requirements there should be...
-  
   
 ### Day 36: Outside of class
 
