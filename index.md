@@ -8,7 +8,7 @@
 
 ### Day 37: In class
 
-- Discuss date of final exam
+- Discuss date of final exam - in class on Friday, April 26 selected.
 - Choose key data structure for project. See [Project Requirements](https://docs.google.com/document/d/1rsuzrkQF1zygNBlXjjdzeRTpnXeGABqdOnfiOkepBvI/edit?usp=sharing).
 - Complete [FP1 Initial Project Planning](https://docs.google.com/document/d/1v9CQfyYWY91OqjPE5J1aNQArElUV_kJgYcBC4CuWJc8/edit?usp=sharing).
 
