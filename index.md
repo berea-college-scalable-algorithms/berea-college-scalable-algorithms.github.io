@@ -4,6 +4,16 @@
 
 ### Berea College Spring 2024 Offering
 
+## Day 38: Friday, April 19, 2024
+
+### Day 38: In class
+
+- Begin [TR3 Peerwise Review for Exam E3](https://docs.google.com/document/d/1EMyVQxl8v7I8SVYZ1yD8iLEVPT12CE7cmp6lBT-uIN0/edit?usp=sharing)
+
+### Day 38: Outside of class
+
+- Complete [TR3 Peerwise Review for Exam E3](https://docs.google.com/document/d/1EMyVQxl8v7I8SVYZ1yD8iLEVPT12CE7cmp6lBT-uIN0/edit?usp=sharing) by tomorrow. 
+
 ## Day 37: Wednesday, April 17, 2024
 
 ### Day 37: In class
