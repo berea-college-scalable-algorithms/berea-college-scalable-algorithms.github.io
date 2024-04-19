@@ -8,6 +8,7 @@
 
 ### Day 38: In class
 
+- Discuss what next milestone make sense for the project. See [Project Requirements](https://docs.google.com/document/d/1rsuzrkQF1zygNBlXjjdzeRTpnXeGABqdOnfiOkepBvI/edit?usp=sharing).
 - Begin [TR3 Peerwise Review for Exam E3](https://docs.google.com/document/d/1EMyVQxl8v7I8SVYZ1yD8iLEVPT12CE7cmp6lBT-uIN0/edit?usp=sharing)
 
 ### Day 38: Outside of class
