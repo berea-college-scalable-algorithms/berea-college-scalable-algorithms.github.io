@@ -4,6 +4,17 @@
 
 ### Berea College Spring 2024 Offering
 
+## Day 39: Monday, April 21, 2024
+
+### Day 39: In class
+
+- Discuss E2 exam results
+- Work on [FP2 Project Problem Statement](https://docs.google.com/document/d/11Ta92OIPY8zACZ5m5dyFHv5hbIqEQG1l7T_rhnAJn6I/edit?usp=sharing).
+
+### Day 39: Outside of class
+
+- Complete [FP2 Project Problem Statement](https://docs.google.com/document/d/11Ta92OIPY8zACZ5m5dyFHv5hbIqEQG1l7T_rhnAJn6I/edit?usp=sharing).
+
 ## Day 38: Friday, April 19, 2024
 
 ### Day 38: In class
