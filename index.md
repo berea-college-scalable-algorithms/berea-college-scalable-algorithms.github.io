@@ -4,6 +4,18 @@
 
 ### Berea College Spring 2024 Offering
 
+## Day 40: Wednesday, April 23, 2024
+
+### Day 40: In class
+
+- Discuss E3 
+- Meet with Dr. Jan to discuss E1 and E2
+- Work on project
+
+### Day 40: Outside of class
+
+- Study for E3, which is on Friday, April 26, 2024. Review the readings, the Peerwise questions, and the relevant katas. Ask questions in Slack if you have them.
+
 ## Day 39: Monday, April 21, 2024
 
 ### Day 39: In class
