@@ -12,12 +12,12 @@
 - What is this course about?
 - Why is this course being offered?
 - What do you hope to learn?
-- Bingo game
-- Debrief on bingo strategy and how it relates to scalable algorithms
-- [Codewars](https://www.codewars.com/) - sign-up and explore. Note that this use uses katas. ["Kata"](https://en.wikipedia.org/wiki/Kata) is a Japanese word meaning "form". It refers to a detailed choreographed pattern of martial arts movements made to be practiced alone. It can also be reviewed within groups and in unison when training. It is practiced in Japanese martial arts as a way to memorize and perfect the movements being executed.
-- Get signed up for the textbook:
-  - Search in your email for an email from Canvas. Push button in email. Then accept book and make password. Go to settings and set your timezone to Eastern. Explore the textbook a bit
+- Get signed up for [Runestone Interactive](https://runestone.academy/): BC_java4python_S24 and BC_peerplus_S24. Part of your homework will be a reading from the Java transition book.
 - Explore the syllabus a bit
+  - Go to [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003/) and solve on a whiteboard without using your computer. When you have an algoritm, call over a professor or the TA to check it.
+  - Sign up for [Codewars](https://www.codewars.com/) - sign-up and explore. Note that this site uses uses katas. ["Kata"](https://en.wikipedia.org/wiki/Kata) is a Japanese word meaning "form". It refers to a detailed choreographed pattern of martial arts movements made to be practiced alone. It can also be reviewed within groups and in unison when training. It is practiced in Japanese martial arts as a way to memorize and perfect the movements being executed.
+  - **Recall that you may not use any AI to solve this problem.** You may use a search engine to look up syntax. Solve the problem in both Python and Java. If you finish before the end of the period, try to solve another problem.
+  - Complete and submit Teamwork [T01: Codewars Camel Case](https://docs.google.com/document/d/1iORlCUB66_fSQRDlR1H5_TT7okeJIPMD3TKaaf7mqRE/edit?usp=sharing)
 
 **Day 1: Outside of class** (all due by 8 am of our next class day):
 
@@ -25,7 +25,7 @@
   1. Help us get to know you better
   2. Connect course to desired career
   3. Read the syllabus to understand the course structure
-  4. Read both sections of [Chapter 1: Review from Basic Data Structures](https://canvas.instructure.com/courses/8407744)
+  4. [Read sections 1.1-1.7 of the Java transition book](https://moodle.berea.edu/mod/lti/view.php?id=736344), completing all problems. Note that you MUST go through this link or Moodle to get credit.
   5. Introduce yourself to the class and the TA on Slack
 
 ---
