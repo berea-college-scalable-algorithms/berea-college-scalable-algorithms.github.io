@@ -4,6 +4,18 @@
 
 ### Berea College Spring 2025 Offering
 
+## Day 2: Friday, January 10, 2025
+
+### Day 2: In class
+
+- Discuss the reading from the Java transition book
+- Quiz or Peer Instruction question on reading
+- Try to complete Teamwork [T01: Codewars Camel Case](https://docs.google.com/document/d/1iORlCUB66_fSQRDlR1H5_TT7okeJIPMD3TKaaf7mqRE/edit?usp=sharing)
+
+**Day 2: Outside of class** (all due by 8 am of our next class day):
+
+- [Read sections 1.8-1.11 of the Java transition book](https://moodle.berea.edu/mod/lti/view.php?id=736345), completing all problems. Note that you MUST go through this link or Moodle to get credit.
+-Complete and sugmit Teamwork [T01: Codewars Camel Case](https://docs.google.com/document/d/1iORlCUB66_fSQRDlR1H5_TT7okeJIPMD3TKaaf7mqRE/edit?usp=sharing)
 
 ## Day 1: Wednesday, January 8, 2025
 
@@ -17,7 +29,7 @@
   - Go to [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003/) and solve on a whiteboard without using your computer. When you have an algoritm, call over a professor or the TA to check it.
   - Sign up for [Codewars](https://www.codewars.com/) - sign-up and explore. Note that this site uses uses katas. ["Kata"](https://en.wikipedia.org/wiki/Kata) is a Japanese word meaning "form". It refers to a detailed choreographed pattern of martial arts movements made to be practiced alone. It can also be reviewed within groups and in unison when training. It is practiced in Japanese martial arts as a way to memorize and perfect the movements being executed.
   - **Recall that you may not use any AI to solve this problem.** You may use a search engine to look up syntax. Solve the problem in both Python and C++. If you finish before the end of the period, try to solve another problem.
-  - Complete and submit Teamwork [T01: Codewars Camel Case](https://docs.google.com/document/d/1iORlCUB66_fSQRDlR1H5_TT7okeJIPMD3TKaaf7mqRE/edit?usp=sharing)
+  - Begin Teamwork [T01: Codewars Camel Case](https://docs.google.com/document/d/1iORlCUB66_fSQRDlR1H5_TT7okeJIPMD3TKaaf7mqRE/edit?usp=sharing)
 
 **Day 1: Outside of class** (all due by 8 am of our next class day):
 
