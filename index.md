@@ -16,7 +16,7 @@
 **Day 2: Outside of class** (all due by 8 am of our next class day):
 
 - [Read sections 1.8-1.11 of the Java transition book](https://moodle.berea.edu/mod/lti/view.php?id=736345), completing all problems. Note that you MUST go through this link or Moodle to get credit.
--Complete and sugmit Teamwork [T01: Codewars Camel Case](https://docs.google.com/document/d/1iORlCUB66_fSQRDlR1H5_TT7okeJIPMD3TKaaf7mqRE/edit?usp=sharing)
+- Complete and submit Teamwork [T01: Codewars Camel Case](https://docs.google.com/document/d/1iORlCUB66_fSQRDlR1H5_TT7okeJIPMD3TKaaf7mqRE/edit?usp=sharing)
 
 ## Day 1: Wednesday, January 8, 2025
 
