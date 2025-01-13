@@ -11,6 +11,22 @@
 - Discuss the reading from the Java transition book
 - Quiz or Peer Instruction question on reading
 - Discussion of [Codewars: Convert String to Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003/)
+- Try to complete Teamwork [T02: Codewars Puzzle Tiles](https://docs.google.com/document/d/1OWJ2NtxP0U19ZbE9pf_gS4lH3CgI7v0kPyEK2Ct1Rrw/edit?usp=sharing)
+
+**Day 2: Outside of class** (all due by 8 am of our next class day):
+
+- Read and do all exercises in the following sections in our main book:
+  - 0.1. How to Use this System
+  - 1.1. Data Structures and Algorithms
+  - 1.2. Abstract Data Types
+
+## Day 2: Friday, January 10, 2025
+
+### Day 2: In class
+
+- Discuss the reading from the Java transition book
+- Quiz or Peer Instruction question on reading
+- Discussion of [Codewars: Convert String to Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003/)
 - Try to complete Teamwork [T01: Codewars Camel Case](https://docs.google.com/document/d/1iORlCUB66_fSQRDlR1H5_TT7okeJIPMD3TKaaf7mqRE/edit?usp=sharing)
 
 **Day 2: Outside of class** (all due by 8 am of our next class day):
