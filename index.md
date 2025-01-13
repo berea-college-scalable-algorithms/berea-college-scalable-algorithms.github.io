@@ -11,7 +11,6 @@
 - Discuss the reading from the Java transition book
 - Quiz or Peer Instruction question on reading
 - Discussion of [Codewars: Convert String to Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003/)
-- Try to complete Teamwork [T02: Codewars Puzzle Tiles](https://docs.google.com/document/d/1OWJ2NtxP0U19ZbE9pf_gS4lH3CgI7v0kPyEK2Ct1Rrw/edit?usp=sharing)
 
 **Day 2: Outside of class** (all due by 8 am of our next class day):
 
