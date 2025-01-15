@@ -1,8 +1,35 @@
 # CSC 246: Objects and Scalable Algorithms Website, Berea College
 
-## Professors Jan Pearce and Deanna Wliborne
+## Professors Jan Pearce and Deanna Wilborne
 
 ### Berea College Spring 2025 Offering
+
+## Day 4: Wednesday, January 15, 2025
+
+### Day 4: In class
+
+- Discuss the readings from the main text
+- Work on [Codewars ASCII Fun #3: Puzzle Tiles](https://www.codewars.com/kata/5947d86e07693bcf000000c4)
+- Try to complete Teamwork [T02: Codewars Puzzle Tiles](https://docs.google.com/document/d/1OWJ2NtxP0U19ZbE9pf_gS4lH3CgI7v0kPyEK2Ct1Rrw/edit?usp=sharing)
+
+**Day 4: Outside of class** (all due by 8 am of our next class day):
+
+- Complete [Flawed AI Makes Robots makes Robots Racist, Sexist](https://docs.google.com/document/d/1n8Yl6pcalNwN86HnXjsyDXuDu3YXO8QFYXS4IEqldp8/edit?usp=sharing)
+
+## Day 3: Monday, January 13, 2025
+
+### Day 3: In class
+
+- Discuss the reading from the Java transition book
+- Peer Instruction question on reading
+- Discussion of [Codewars Convert String to Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003/)
+
+**Day 3: Outside of class** (all due by 8 am of our next class day):
+
+- Read and do all exercises in the following sections in our main book:
+  - [0.1. How to Use this System](https://canvas.instructure.com/courses/10990311/modules/items/123230262)
+  - [1.1. Data Structures and Algorithms](https://canvas.instructure.com/courses/10990311/assignments/52126395?module_item_id=123230264)
+  - [1.2. Abstract Data Types](https://canvas.instructure.com/courses/10990311/assignments/52126396?module_item_id=123230266)
 
 ## Day 2: Friday, January 10, 2025
 
@@ -10,7 +37,7 @@
 
 - Discuss the reading from the Java transition book
 - Quiz or Peer Instruction question on reading
-- Discussion of [Codewars: Convert String to Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003/)
+- Discussion of [Codewars Convert String to Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003/)
 
 **Day 2: Outside of class** (all due by 8 am of our next class day):
 
@@ -25,7 +52,7 @@
 
 - Discuss the reading from the Java transition book
 - Quiz or Peer Instruction question on reading
-- Discussion of [Codewars: Convert String to Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003/)
+- Discussion of [Codewars Convert String to Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003/)
 - Try to complete Teamwork [T01: Codewars Camel Case](https://docs.google.com/document/d/1iORlCUB66_fSQRDlR1H5_TT7okeJIPMD3TKaaf7mqRE/edit?usp=sharing)
 
 **Day 2: Outside of class** (all due by 8 am of our next class day):
