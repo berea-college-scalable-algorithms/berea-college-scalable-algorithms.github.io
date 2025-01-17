@@ -4,6 +4,24 @@
 
 ### Berea College Spring 2025 Offering
 
+## Reminder: No class on Monday, January 20, 2025 - Celebrate Martin Luther King Jr. Day!
+
+## Day 5: Friday, January 17, 2025
+
+### Day 5: In class
+
+- Discuss  [A02: Flawed AI Makes Robots makes Robots Racist, Sexist](https://docs.google.com/document/d/1n8Yl6pcalNwN86HnXjsyDXuDu3YXO8QFYXS4IEqldp8/edit?usp=sharing)
+- Complete Teamwork [T02: Codewars Puzzle Tiles](https://docs.google.com/document/d/1OWJ2NtxP0U19ZbE9pf_gS4lH3CgI7v0kPyEK2Ct1Rrw/edit?usp=sharing)
+
+**Day 5: Outside of class**
+
+- Complete [A03: Personal Practice 1](https://docs.google.com/document/d/1VhFltCbBL3erS318-1-vSJaPwIgu50Fx2Wu6kwM2D4A/edit?usp=sharing)
+- Read and do all exercises in the following sections in our main book:
+  - [6.1 Design Patterns](https://canvas.instructure.com/courses/10990311/assignments/52126433?module_item_id=123230377)
+  - [6.2 Alternative List ADT Designs](https://canvas.instructure.com/courses/10990311/modules/items/123230378)
+  - [6.3 Comparing Records](https://canvas.instructure.com/courses/10990311/modules/items/123230378)
+  - [6.4 The Dictionary ADT](https://canvas.instructure.com/courses/10990311/assignments/52126435?module_item_id=123230382)
+
 ## Day 4: Wednesday, January 15, 2025
 
 ### Day 4: In class
@@ -14,7 +32,7 @@
 
 **Day 4: Outside of class** (all due by 8 am of our next class day):
 
-- Complete [Flawed AI Makes Robots makes Robots Racist, Sexist](https://docs.google.com/document/d/1n8Yl6pcalNwN86HnXjsyDXuDu3YXO8QFYXS4IEqldp8/edit?usp=sharing)
+- Complete [A02: Flawed AI Makes Robots makes Robots Racist, Sexist](https://docs.google.com/document/d/1n8Yl6pcalNwN86HnXjsyDXuDu3YXO8QFYXS4IEqldp8/edit?usp=sharing)
 
 ## Day 3: Monday, January 13, 2025
 
