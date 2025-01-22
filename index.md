@@ -4,6 +4,24 @@
 
 ### Berea College Spring 2025 Offering
 
+---
+
+## Day 6: Wednesday, January 22, 2025
+
+### Day 6: In class
+
+- Discuss  Homework and reading
+- Discuss efficiency of algorithms
+- Begin Teamwork
+
+**Day 6: Outside of class**
+
+- Read and do all exercises in the following sections in our main book:
+  - [7.1 Binary Trees Chapter Introduction](https://canvas.instructure.com/courses/10990311/modules/items/123230383)
+  - [7.2 Binary Trees](https://canvas.instructure.com/courses/10990311/assignments/52126436?module_item_id=123230385)
+  - [7.3. Binary Tree as a Recursive Data Structure](https://canvas.instructure.com/courses/10990311/modules/items/123230386)
+  - [7.4 The Full Binary Tree Theorem](https://canvas.instructure.com/courses/10990311/modules/items/123230387)
+
 ## Reminder: No class on Monday, January 20, 2025 - Celebrate Martin Luther King Jr. Day!
 
 ## Day 5: Friday, January 17, 2025
