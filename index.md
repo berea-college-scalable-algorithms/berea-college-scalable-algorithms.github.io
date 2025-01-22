@@ -10,9 +10,10 @@
 
 ### Day 6: In class
 
-- Discuss  Homework and reading
+- Discuss homework [A03: Personal Practice 1](https://docs.google.com/document/d/1VhFltCbBL3erS318-1-vSJaPwIgu50Fx2Wu6kwM2D4A/edit?usp=sharing) and textbook reading
 - Discuss efficiency of algorithms
-- Begin Teamwork
+- Begin Teamwork [T02: Exploring OOP in Java]
+- Announce homework
 
 **Day 6: Outside of class**
 
@@ -21,6 +22,7 @@
   - [7.2 Binary Trees](https://canvas.instructure.com/courses/10990311/assignments/52126436?module_item_id=123230385)
   - [7.3. Binary Tree as a Recursive Data Structure](https://canvas.instructure.com/courses/10990311/modules/items/123230386)
   - [7.4 The Full Binary Tree Theorem](https://canvas.instructure.com/courses/10990311/modules/items/123230387)
+  - [7.5 Binary Tree Traversals](https://canvas.instructure.com/courses/10990311/assignments/52126437)
 
 ## Reminder: No class on Monday, January 20, 2025 - Celebrate Martin Luther King Jr. Day!
 
@@ -28,7 +30,7 @@
 
 ### Day 5: In class
 
-- Discuss  [A02: Flawed AI Makes Robots makes Robots Racist, Sexist](https://docs.google.com/document/d/1n8Yl6pcalNwN86HnXjsyDXuDu3YXO8QFYXS4IEqldp8/edit?usp=sharing)
+- Discuss [A02: Flawed AI Makes Robots makes Robots Racist, Sexist](https://docs.google.com/document/d/1n8Yl6pcalNwN86HnXjsyDXuDu3YXO8QFYXS4IEqldp8/edit?usp=sharing)
 - Complete Teamwork [T02: Codewars Puzzle Tiles](https://docs.google.com/document/d/1OWJ2NtxP0U19ZbE9pf_gS4lH3CgI7v0kPyEK2Ct1Rrw/edit?usp=sharing)
 
 **Day 5: Outside of class**
