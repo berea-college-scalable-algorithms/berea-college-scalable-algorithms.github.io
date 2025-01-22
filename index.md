@@ -12,7 +12,7 @@
 
 - Discuss homework [A03: Personal Practice 1](https://docs.google.com/document/d/1VhFltCbBL3erS318-1-vSJaPwIgu50Fx2Wu6kwM2D4A/edit?usp=sharing) and textbook reading
 - Discuss efficiency of algorithms
-- Begin Teamwork [T02: Exploring OOP in Java](https://docs.google.com/document/d/1H4--8dZYHfARSpYszDCFsnjfrPNkyQax2_2AdEdIFgE/edit?usp=sharing)
+- Begin Teamwork [T03: Exploring OOP in Java](https://docs.google.com/document/d/1H4--8dZYHfARSpYszDCFsnjfrPNkyQax2_2AdEdIFgE/edit?usp=sharing)
 - Announce homework
 
 **Day 6: Outside of class**
