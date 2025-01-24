@@ -6,6 +6,22 @@
 
 ---
 
+## Day 7: Friday, January 24, 2025
+
+### Day 7: In class
+
+- Quiz or Peer Instruction question on reading
+- Complete Teamwork [T03: Exploring OOP in Java](https://docs.google.com/document/d/1H4--8dZYHfARSpYszDCFsnjfrPNkyQax2_2AdEdIFgE/edit?usp=sharing)
+- Announce homework
+
+### Day 6: Outside of class**
+- Read and do all exercises in the following sections in our main book:
+  - [7.6 Implementing Tree Traversals](https://canvas.instructure.com/courses/10990311/assignments/52126438)
+  - [
+7.7 Information Flow in Recursive Functions](https://canvas.instructure.com/courses/10990311/assignments/52126439)
+  - [7.8 Binary Tree Node Implementations](https://canvas.instructure.com/courses/10990311/modules/items/123230394)
+  - [7.9 Composite-based Expression Tree](https://canvas.instructure.com/courses/10990311/modules/items/123230395)
+
 ## Day 6: Wednesday, January 22, 2025
 
 ### Day 6: In class
@@ -15,7 +31,7 @@
 - Begin Teamwork [T03: Exploring OOP in Java](https://docs.google.com/document/d/1H4--8dZYHfARSpYszDCFsnjfrPNkyQax2_2AdEdIFgE/edit?usp=sharing)
 - Announce homework
 
-**Day 6: Outside of class**
+### Day 6: Outside of class**
 
 - Read and do all exercises in the following sections in our main book:
   - [7.1 Binary Trees Chapter Introduction](https://canvas.instructure.com/courses/10990311/modules/items/123230383)
