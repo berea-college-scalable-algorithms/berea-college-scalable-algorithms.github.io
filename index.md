@@ -6,6 +6,21 @@
 
 ---
 
+## Day 8: Monday, January 27, 2025
+
+### Day 8: In class
+
+- Update laptop
+- Quiz or Peer Instruction question on reading
+- Complete [Set-up of Java on WSL](https://docs.google.com/document/d/13fYzAjneLAWerHU6rbachJepFoM-FXn0jdsZo_aYte0/edit?usp=sharing). If you finish early,
+work on solving problems on [Codewars](https://www.codewars.com/).
+- Announce homework
+
+### Day 8: Outside of class**
+- Read and do all exercises in the following sections in our main book:
+  - [2.1 Command Line Basics](https://canvas.instructure.com/courses/10990311/modules#module_18250906)
+  - [2.2 Parsing Command Line Parameters In Your Program](https://canvas.instructure.com/courses/10990311/modules/items/123230272)
+
 ## Day 7: Friday, January 24, 2025
 
 ### Day 7: In class
@@ -17,8 +32,7 @@
 ### Day 6: Outside of class**
 - Read and do all exercises in the following sections in our main book:
   - [7.6 Implementing Tree Traversals](https://canvas.instructure.com/courses/10990311/assignments/52126438)
-  - [
-7.7 Information Flow in Recursive Functions](https://canvas.instructure.com/courses/10990311/assignments/52126439)
+  - [7.7 Information Flow in Recursive Functions](https://canvas.instructure.com/courses/10990311/assignments/52126439)
   - [7.8 Binary Tree Node Implementations](https://canvas.instructure.com/courses/10990311/modules/items/123230394)
   - [7.9 Composite-based Expression Tree](https://canvas.instructure.com/courses/10990311/modules/items/123230395)
 
