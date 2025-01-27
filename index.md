@@ -18,7 +18,7 @@ work on solving problems on [Codewars](https://www.codewars.com/).
 
 ### Day 8: Outside of class**
 - Read and do all exercises in the following sections in our main book:
-  - [2.1 Command Line Basics](https://canvas.instructure.com/courses/10990311/modules#module_18250906)
+  - [2.1 Command Line Basics](https://canvas.instructure.com/courses/10990311/modules/items/123230268)
   - [2.2 Parsing Command Line Parameters In Your Program](https://canvas.instructure.com/courses/10990311/modules/items/123230272)
 
 ## Day 7: Friday, January 24, 2025
