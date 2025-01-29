@@ -10,11 +10,13 @@
 
 ### Day 9: In class
 
-- Discuss reading
+- Discuss reading and installations
+- Discuss Codewars kata [Complete The Pattern #8 - Number Pyramid](https://www.codewars.com/kata/5575ff8c4d9c98bc96000042)
 - Add BC_opensource_S25 to your Runestone Interactive account
-- Possible Peer Instruction or quiz question on reading
+- Possible Peer Instruction or quiz on reading
 - Discuss and use [Set-up of Java on WSL](https://docs.google.com/document/d/13fYzAjneLAWerHU6rbachJepFoM-FXn0jdsZo_aYte0/edit?usp=sharing) on a new teamwork.
-- If you finish early, work on solving problems on [Codewars](https://www.codewars.com/).
+- Complete [T04: Exploring Binary Trees in Java](https://docs.google.com/document/d/1_NVy_FHsUV3NOigZFfP209tigG4UnCKfjlLMA78wb9Q/edit?usp=sharing)
+- If you finish early, work on solving other problems on [Codewars](https://www.codewars.com/).
 - Announce homework
 
 ### Day 9: Outside of class**
