@@ -6,6 +6,20 @@
 
 ---
 
+## Day 9: Wednesday, January 29, 2025
+
+### Day 9: In class
+
+- Discuss reading
+- Add BC_opensource_S25 to your Runestone Interactive account
+- Possible Peer Instruction or quiz question on reading
+- Discuss and use [Set-up of Java on WSL](https://docs.google.com/document/d/13fYzAjneLAWerHU6rbachJepFoM-FXn0jdsZo_aYte0/edit?usp=sharing) on a new teamwork.
+- If you finish early, work on solving problems on [Codewars](https://www.codewars.com/).
+- Announce homework
+
+### Day 9: Outside of class**
+- Join BC_opensource_S25 in Runestone Interactive and then do the [R08 reading assignment](https://moodle.berea.edu/mod/lti/view.php?id=748440).
+
 ## Day 8: Monday, January 27, 2025
 
 ### Day 8: In class
