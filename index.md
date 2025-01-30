@@ -6,6 +6,22 @@
 
 ---
 
+## Day 10: Friday, January 31, 2025
+
+### Day 10: In class
+
+- Discuss reading and installations
+- Complete [Super fast CS Survey](https://forms.gle/5LZzALMzwZe2hUSi6)
+- Peer Instruction or quiz on reading
+- Complete [T04: Exploring Binary Trees in Java](https://docs.google.com/document/d/1_NVy_FHsUV3NOigZFfP209tigG4UnCKfjlLMA78wb9Q/edit?usp=sharing)
+- If you finish early, work on solving other problems on [Codewars](https://www.codewars.com/).
+- Announce homework
+
+### Day 10: Outside of class**
+
+- Be sure you are in BC_opensource_S25 in Runestone Interactive and then do the [R09 reading assignment](https://moodle.berea.edu/mod/lti/view.php?id=748689).
+- Complete [A04: Generative AI Image Creation Energy Utilization](https://docs.google.com/document/d/1c1CCQ3UnVLSjETF7rFg6vL7PYAfOkWeTWZ2Q67W8WTo/edit?usp=sharing)
+
 ## Day 9: Wednesday, January 29, 2025
 
 ### Day 9: In class
@@ -20,6 +36,7 @@
 - Announce homework
 
 ### Day 9: Outside of class**
+
 - Join BC_opensource_S25 in Runestone Interactive and then do the [R08 reading assignment](https://moodle.berea.edu/mod/lti/view.php?id=748440).
 
 ## Day 8: Monday, January 27, 2025
@@ -33,6 +50,7 @@ work on solving problems on [Codewars](https://www.codewars.com/).
 - Announce homework
 
 ### Day 8: Outside of class**
+
 - Read and do all exercises in the following sections in our main book:
   - [2.1 Command Line Basics](https://canvas.instructure.com/courses/10990311/modules/items/123230268)
   - [2.2 Parsing Command Line Parameters In Your Program](https://canvas.instructure.com/courses/10990311/modules/items/123230272)
@@ -46,6 +64,7 @@ work on solving problems on [Codewars](https://www.codewars.com/).
 - Announce homework
 
 ### Day 6: Outside of class**
+
 - Read and do all exercises in the following sections in our main book:
   - [7.6 Implementing Tree Traversals](https://canvas.instructure.com/courses/10990311/assignments/52126438)
   - [7.7 Information Flow in Recursive Functions](https://canvas.instructure.com/courses/10990311/assignments/52126439)
@@ -108,7 +127,7 @@ work on solving problems on [Codewars](https://www.codewars.com/).
 - Peer Instruction question on reading
 - Discussion of [Codewars Convert String to Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003/)
 
-**Day 3: Outside of class** (all due by 8 am of our next class day):
+### Day 3: Outside of class (all due by 8 am of our next class day):
 
 - Read and do all exercises in the following sections in our main book:
   - [0.1. How to Use this System](https://canvas.instructure.com/courses/10990311/modules/items/123230262)
@@ -123,7 +142,7 @@ work on solving problems on [Codewars](https://www.codewars.com/).
 - Quiz or Peer Instruction question on reading
 - Discussion of [Codewars Convert String to Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003/)
 
-**Day 2: Outside of class** (all due by 8 am of our next class day):
+### Day 2: Outside of class (all due by 8 am of our next class day):
 
 - Read and do all exercises in the following sections in our main book:
   - 0.1. How to Use this System
@@ -139,7 +158,7 @@ work on solving problems on [Codewars](https://www.codewars.com/).
 - Discussion of [Codewars Convert String to Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003/)
 - Try to complete Teamwork [T01: Codewars Camel Case](https://docs.google.com/document/d/1iORlCUB66_fSQRDlR1H5_TT7okeJIPMD3TKaaf7mqRE/edit?usp=sharing)
 
-**Day 2: Outside of class** (all due by 8 am of our next class day):
+### Day 2: Outside of class (all due by 8 am of our next class day):
 
 - [Read sections 1.8-1.11 of the Java transition book](https://moodle.berea.edu/mod/lti/view.php?id=736345), completing all problems. Note that you MUST go through this link or Moodle to get credit.
 - Complete and submit Teamwork [T01: Codewars Camel Case](https://docs.google.com/document/d/1iORlCUB66_fSQRDlR1H5_TT7okeJIPMD3TKaaf7mqRE/edit?usp=sharing)
@@ -158,7 +177,7 @@ work on solving problems on [Codewars](https://www.codewars.com/).
   - **Recall that you may not use any AI to solve this problem.** You may use a search engine to look up syntax. Solve the problem in both Python and C++. If you finish before the end of the period, try to solve another problem.
   - Begin Teamwork [T01: Codewars Camel Case](https://docs.google.com/document/d/1iORlCUB66_fSQRDlR1H5_TT7okeJIPMD3TKaaf7mqRE/edit?usp=sharing)
 
-**Day 1: Outside of class** (all due by 8 am of our next class day):
+### Day 1: Outside of class (all due by 8 am of our next class day):
 
 - Complete [A01:Getting Started](https://docs.google.com/document/d/12cqAcs057RnS551WFxTgJiTPRnh_I57cV_dNpst6_ts/edit?usp=sharing) and submit to Moodle. Note that there are several tasks, some of which will take a bit of time:
   1. Help us get to know you better
