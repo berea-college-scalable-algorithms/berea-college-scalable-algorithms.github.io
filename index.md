@@ -10,7 +10,7 @@
 
 ### Day 10: In class
 
-- Discuss reading and installations
+- Discuss readings and state of installations
 - Complete [Super fast CS Survey](https://forms.gle/5LZzALMzwZe2hUSi6)
 - Peer Instruction or quiz on reading
 - Complete [T04: Exploring Binary Trees in Java](https://docs.google.com/document/d/1_NVy_FHsUV3NOigZFfP209tigG4UnCKfjlLMA78wb9Q/edit?usp=sharing)
