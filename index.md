@@ -16,8 +16,8 @@
 - Complete [T04: Exploring Binary Trees in Java](https://docs.google.com/document/d/1_NVy_FHsUV3NOigZFfP209tigG4UnCKfjlLMA78wb9Q/edit?usp=sharing)
 - If you finish early, work on solving other problems on [Codewars](https://www.codewars.com/).
 - Announce homework
-
-### Day 10: Outside of class**
+ 
+### Day 10: Outside of class
 
 - Be sure you are in BC_opensource_S25 in Runestone Interactive and then do the [R09 reading assignment](https://moodle.berea.edu/mod/lti/view.php?id=748689).
 - Complete [A04: Generative AI Image Creation Energy Utilization](https://docs.google.com/document/d/1c1CCQ3UnVLSjETF7rFg6vL7PYAfOkWeTWZ2Q67W8WTo/edit?usp=sharing)
