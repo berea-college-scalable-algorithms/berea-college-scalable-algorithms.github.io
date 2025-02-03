@@ -6,6 +6,23 @@
 
 ---
 
+## Day 11: Monday, February 3, 2025
+
+### Day 11: In class
+
+- Discuss readings and state of installations
+- Discuss [A04: Generative AI Image Creation Energy Utilization](https://docs.google.com/document/d/1c1CCQ3UnVLSjETF7rFg6vL7PYAfOkWeTWZ2Q67W8WTo/edit?usp=sharing)
+- Codewars:
+  - Ensure you are in the Berea College clan
+  - Demos and discussion of [Complete The Pattern #8 - Number Pyramid](https://www.codewars.com/kata/5575ff8c4d9c98bc96000042)
+  - Discussion and work on [Hex Class](https://www.codewars.com/kata/5483366098aa442def0009af)
+- If you finish early, work on solving other problems on [Codewars](https://www.codewars.com/).
+- Announce homework
+
+### Day 11: Outside of class
+
+- Be sure you are in BC_opensource_S25 in Runestone Interactive and then do the [R10 reading assignment](https://moodle.berea.edu/mod/lti/view.php?id=748702).
+
 ## Day 10: Friday, January 31, 2025
 
 ### Day 10: In class
