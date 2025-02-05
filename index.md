@@ -18,6 +18,7 @@
 
 ### Day 12: Outside of class
 
+- Make a sincere attempt to complete all of the code in solving [Hex Class](https://www.codewars.com/kata/5483366098aa442def0009af). This is like the second milestone in CSC 236. It might not be working, but you should have sincerely attempted all of the code.
 - Read and do all exercises in the following sections in our main book:
   - [7.08 Binary Tree Node Implementations](https://canvas.instructure.com/courses/10990311/modules/items/123230394)
   - [7.09 Composite-based Expression Tree](https://canvas.instructure.com/courses/10990311/modules/items/123230395)
