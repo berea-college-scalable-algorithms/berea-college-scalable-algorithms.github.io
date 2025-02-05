@@ -6,6 +6,23 @@
 
 ---
 
+## Day 12: Wednesday, February 5, 2025
+
+### Day 12: In class
+
+- Discuss readings
+- PI question or quiz
+- Complete [Hex Class](https://www.codewars.com/kata/5483366098aa442def0009af)
+- If you finish early, work on solving other problems on [Codewars](https://www.codewars.com/).
+- Announce homework
+
+### Day 12: Outside of class
+
+- Read and do all exercises in the following sections in our main book:
+  - [7.08 Binary Tree Node Implementations](https://canvas.instructure.com/courses/10990311/modules/items/123230394)
+  - [7.09 Composite-based Expression Tree](https://canvas.instructure.com/courses/10990311/modules/items/123230395)
+  - [7.10 Binary Tree Space Requirements](https://canvas.instructure.com/courses/10990311/modules/items/123230397)
+
 ## Day 11: Monday, February 3, 2025
 
 ### Day 11: In class
