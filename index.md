@@ -6,6 +6,24 @@
 
 ---
 
+## Day 13: Friday, February 7, 2025
+
+### Day 13: In class
+
+- Discuss readings
+- PI question or quiz
+- Discuss solution to [Hex Class](https://www.codewars.com/kata/5483366098aa442def0009af)
+- Teamwork
+- If you finish early, work on solving other problems on [Codewars](https://www.codewars.com/).
+- Announce homework
+
+### Day 13: Outside of class
+
+- Complete [TBA](TBA)
+- Read and do all exercises in the following sections in our main book:
+  - [7.11 Binary Search Trees](https://canvas.instructure.com/courses/10990311/assignments/52126441)
+  - [7.12 Dictionary Implementation Using a BST](https://canvas.instructure.com/courses/10990311/modules/items/123230401)
+ 
 ## Day 12: Wednesday, February 5, 2025
 
 ### Day 12: In class
