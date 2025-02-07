@@ -13,13 +13,13 @@
 - Discuss readings
 - PI question or quiz
 - Discuss solution to [Hex Class](https://www.codewars.com/kata/5483366098aa442def0009af)
-- Teamwork
+- Complete [T05: Exploring Binary Trees in Java](https://docs.google.com/document/d/1NKKY56S8HGcLtzMwRF0mX7-EK0FdXw6TcSEPVIZnk6Q/edit?usp=sharing)
 - If you finish early, work on solving other problems on [Codewars](https://www.codewars.com/).
 - Announce homework
 
 ### Day 13: Outside of class
 
-- Complete [TBA](TBA)
+- Complete [A05: Ethics Case - She Is in Love With ChatGPT](https://docs.google.com/document/d/1whhwW5GhIaI9HtUv_fwaJjHwk6IHXwxGkVOs6e9RkHU/edit?usp=sharing)
 - Read and do all exercises in the following sections in our main book:
   - [7.11 Binary Search Trees](https://canvas.instructure.com/courses/10990311/assignments/52126441)
   - [7.12 Dictionary Implementation Using a BST](https://canvas.instructure.com/courses/10990311/modules/items/123230401)
