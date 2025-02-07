@@ -13,7 +13,7 @@
 - Discuss readings
 - PI question or quiz
 - Discuss solution to [Hex Class](https://www.codewars.com/kata/5483366098aa442def0009af)
-- Complete [T05: Exploring Binary Trees in Java](https://docs.google.com/document/d/1NKKY56S8HGcLtzMwRF0mX7-EK0FdXw6TcSEPVIZnk6Q/edit?usp=sharing)
+- Complete [T05: Java Types and Generics](https://docs.google.com/document/d/1NKKY56S8HGcLtzMwRF0mX7-EK0FdXw6TcSEPVIZnk6Q/edit?usp=sharing)
 - If you finish early, work on solving other problems on [Codewars](https://www.codewars.com/).
 - Announce homework
 
