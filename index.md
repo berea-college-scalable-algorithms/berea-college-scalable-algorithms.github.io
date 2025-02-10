@@ -6,6 +6,43 @@
 
 ---
 
+### Day 14: In class
+
+- PI question or quiz
+- Discuss text readings and [A05: Ethics Case - She Is in Love With ChatGPT](https://docs.google.com/document/d/1whhwW5GhIaI9HtUv_fwaJjHwk6IHXwxGkVOs6e9RkHU/edit?usp=sharing)
+- Student demo of [X295: Binary Tree Increment By One Exercise in section 7.6](https://canvas.instructure.com/courses/10990311/assignments/52126438)
+- Complete [T05: Java Types and Generics](https://docs.google.com/document/d/1NKKY56S8HGcLtzMwRF0mX7-EK0FdXw6TcSEPVIZnk6Q/edit?usp=sharing)
+- Plan [Codewars: Find Max Tree Node](https://www.codewars.com/kata/5a04450c8ba914083700000a/). 
+- When done planning, individually implement  [Codewars: Find Max Tree Node](https://www.codewars.com/kata/5a04450c8ba914083700000a/) in CodeWars.
+- If you finish early, work on solving other problems on [Codewars](https://www.codewars.com/).
+- Announce homework
+
+### Day 14: Outside of class
+
+- Read and do all exercises in the following sections in our main book:
+  - [7.13 Binary Tree Guided Information Flow](https://canvas.instructure.com/courses/10990311/assignments/52126442)
+  - [7.14 Multiple Binary Trees](https://canvas.instructure.com/courses/10990311/assignments/52126443?module_item_id=123230405)
+  - [7.15 A Hard Information Flow Problem](https://canvas.instructure.com/courses/10990311/modules/items/123230406)
+
+
+## Day 14: Monday, February 10, 2025
+
+### Day 14: In class
+
+- Discuss [A05: Ethics Case - She Is in Love With ChatGPT](https://docs.google.com/document/d/1whhwW5GhIaI9HtUv_fwaJjHwk6IHXwxGkVOs6e9RkHU/edit?usp=sharing)
+- Discuss readings
+- PI question or quiz
+- Complete [T05: Java Types and Generics](https://docs.google.com/document/d/1NKKY56S8HGcLtzMwRF0mX7-EK0FdXw6TcSEPVIZnk6Q/edit?usp=sharing)
+- If you finish early, work on solving other problems on [Codewars](https://www.codewars.com/).
+- Announce homework
+
+### Day 14: Outside of class
+
+- Complete [A05: Ethics Case - She Is in Love With ChatGPT](https://docs.google.com/document/d/1whhwW5GhIaI9HtUv_fwaJjHwk6IHXwxGkVOs6e9RkHU/edit?usp=sharing)
+- Read and do all exercises in the following sections in our main book:
+  - [7.11 Binary Search Trees](https://canvas.instructure.com/courses/10990311/assignments/52126441)
+  - [7.12 Dictionary Implementation Using a BST](https://canvas.instructure.com/courses/10990311/modules/items/123230401)
+
 ## Day 13: Friday, February 7, 2025
 
 ### Day 13: In class
