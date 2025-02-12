@@ -11,7 +11,7 @@
 ### Day 15: In class
 
 - PI question or quiz
-- Student demo
+- Student demo of [X288: Mirror Image Binary Tree](https://canvas.instructure.com/courses/10990311/assignments/52126443?module_item_id=123230405)
 - Work on [T06: Binary Search Trees](https://docs.google.com/document/d/1gr0uwItVJQxfdjjkag0hbqQS4FpYre1PeJ7curv7aeA/edit?usp=sharing)
 - When done planning, individually implement  [The Binary Tree, or There and Back Again](https://www.codewars.com/kata/5a6de0ec0136a1761d00009) in CodeWars.
 - Announce homework
@@ -37,8 +37,10 @@
 
 - Complete [A05: Ethics Case - She Is in Love With ChatGPT](https://docs.google.com/document/d/1whhwW5GhIaI9HtUv_fwaJjHwk6IHXwxGkVOs6e9RkHU/edit?usp=sharing)
 - Read and do all exercises in the following sections in our main book:
-  - [7.11 Binary Search Trees](https://canvas.instructure.com/courses/10990311/assignments/52126441)
-  - [7.12 Dictionary Implementation Using a BST](https://canvas.instructure.com/courses/10990311/modules/items/123230401)
+  - [7.13 Binary Tree Guided Information Flow](https://canvas.instructure.com/courses/10990311/assignments/52126442)
+  - [7.14 Multiple Binary Trees](https://canvas.instructure.com/courses/10990311/assignments/52126443)
+  - [7.15 A Hard Information Flow Problem](https://canvas.instructure.com/courses/10990311/modules/items/123230406)
+  
 
 ## Day 13: Friday, February 7, 2025
 
