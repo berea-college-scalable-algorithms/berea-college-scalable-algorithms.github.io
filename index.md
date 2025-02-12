@@ -6,25 +6,22 @@
 
 ---
 
-### Day 14: In class
+## Day 15: Wednesday, February 12, 2025
+
+### Day 15: In class
 
 - PI question or quiz
-- Discuss text readings and [A05: Ethics Case - She Is in Love With ChatGPT](https://docs.google.com/document/d/1whhwW5GhIaI9HtUv_fwaJjHwk6IHXwxGkVOs6e9RkHU/edit?usp=sharing)
-- Pair discussion of [X295: Binary Tree Increment By One Exercise in section 7.6](https://canvas.instructure.com/courses/10990311/assignments/52126438)
-- Complete [T05: Java Types and Generics](https://docs.google.com/document/d/1NKKY56S8HGcLtzMwRF0mX7-EK0FdXw6TcSEPVIZnk6Q/edit?usp=sharing)
-- Plan [Codewars: Find Max Tree Node](https://www.codewars.com/kata/5a04450c8ba914083700000a/). 
-- When done planning, individually implement  [Codewars: Find Max Tree Node](https://www.codewars.com/kata/5a04450c8ba914083700000a/) in CodeWars.
-- If you finish early, work on solving other problems on [Codewars](https://www.codewars.com/).
+- Student demo
+- Work on [T06: Binary Search Trees](https://docs.google.com/document/d/1gr0uwItVJQxfdjjkag0hbqQS4FpYre1PeJ7curv7aeA/edit?usp=sharing)
+- When done planning, individually implement  [The Binary Tree, or There and Back Again](https://www.codewars.com/kata/5a6de0ec0136a1761d00009) in CodeWars.
 - Announce homework
 
-### Day 14: Outside of class
+### Day 15: Outside of class
 
 - Read and do all exercises in the following sections in our main book:
-  - [7.13 Binary Tree Guided Information Flow](https://canvas.instructure.com/courses/10990311/assignments/52126442)
-  - [7.14 Multiple Binary Trees](https://canvas.instructure.com/courses/10990311/assignments/52126443?module_item_id=123230405)
-  - [7.15 A Hard Information Flow Problem](https://canvas.instructure.com/courses/10990311/modules/items/123230406)
-
-
+  - [7.16 Array Implementation for Complete Binary Trees](https://canvas.instructure.com/courses/10990311/assignments/52126444?module_item_id=123230408)
+  - [7.17 Heaps and Priority Queues](https://canvas.instructure.com/courses/10990311/assignments/52126445?module_item_id=123230410)
+  
 ## Day 14: Monday, February 10, 2025
 
 ### Day 14: In class
