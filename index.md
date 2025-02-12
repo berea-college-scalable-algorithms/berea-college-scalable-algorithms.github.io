@@ -13,6 +13,23 @@
 - PI question or quiz
 - Student demo of [X288: Mirror Image Binary Tree](https://canvas.instructure.com/courses/10990311/assignments/52126443?module_item_id=123230405)
 - Work on [T06: Binary Search Trees](https://docs.google.com/document/d/1gr0uwItVJQxfdjjkag0hbqQS4FpYre1PeJ7curv7aeA/edit?usp=sharing)
+- When done planning, individually implement  [The Binary Tree, or There and Back Again](https://www.codewars.com/kata/5a6de0ec0136a1761d000093) in CodeWars.
+- Announce homework
+
+### Day 15: Outside of class
+
+- Read and do all exercises in the following sections in our main book:
+  - [7.16 Array Implementation for Complete Binary Trees](https://canvas.instructure.com/courses/10990311/assignments/52126444?module_item_id=123230408)
+  - [7.17 Heaps and Priority Queues](https://canvas.instructure.com/courses/10990311/assignments/52126445?module_item_id=123230410)
+
+
+## Day 15: Wednesday, February 12, 2025
+
+### Day 15: In class
+
+- PI question or quiz
+- Student demo of [X288: Mirror Image Binary Tree](https://canvas.instructure.com/courses/10990311/assignments/52126443?module_item_id=123230405)
+- Work on [T06: Binary Search Trees](https://docs.google.com/document/d/1gr0uwItVJQxfdjjkag0hbqQS4FpYre1PeJ7curv7aeA/edit?usp=sharing)
 - When done planning, individually implement  [The Binary Tree, or There and Back Again](https://www.codewars.com/kata/5a6de0ec0136a1761d00009) in CodeWars.
 - Announce homework
 
