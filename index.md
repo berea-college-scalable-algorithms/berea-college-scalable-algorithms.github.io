@@ -6,15 +6,37 @@
 
 ---
 
+### Announcement: Exam E1 will be Wednesday, February 17, 2025
+
+## Day 17: Friday, February 14, 2025 
+
+## Happy Valentine's Day
+
+### Day 17: In class
+
+- PI question or quiz
+- Student demo of [X288: Mirror Image Binary Tree](https://canvas.instructure.com/courses/10990311/assignments/52126443?module_item_id=123230405)
+- Additional student demos
+- Announce homework
+
+### Day 17: Outside of class
+
+- Complete [A07: Individual Review and Reflection](https://docs.google.com/document/d/1YSor1LTdjel0u5u_3qc1kly-xxB3TiWLPOcSxm4mso8/edit?usp=sharing). **Note that due to the nature of this assignment, it will not be accepted late.**
+- Read and do all exercises in the following sections in our main book:
+  - [7.18 Huffman Coding Trees](https://canvas.instructure.com/courses/10990311/assignments/52126446)
+  - [7.19 Trees vs. Tries](https://canvas.instructure.com/courses/10990311/modules/items/123230413)
+  - [7.20 Proof of Optimality of Huffman Coding](https://canvas.instructure.com/courses/10990311/modules/items/123230414)
+  - [7.21 Binary Tree Chapter Summary](https://canvas.instructure.com/courses/10990311/assignments/52126447)
+
 ## Day 16: Friday, February 14, 2025
 
 ### Day 16: In class
 
 - PI question or quiz
-- Student demo of [X288: Mirror Image Binary Tree](https://canvas.instructure.com/courses/10990311/assignments/52126443?module_item_id=123230405)
+- Complete teamwork [T06: Binary Search Trees](https://docs.google.com/document/d/1gr0uwItVJQxfdjjkag0hbqQS4FpYre1PeJ7curv7aeA/edit?usp=sharing)
 - Announce homework
 
-### Day 15: Outside of class
+### Day 16: Outside of class
 
 - Complete [A07: Individual Review and Reflection](https://docs.google.com/document/d/1YSor1LTdjel0u5u_3qc1kly-xxB3TiWLPOcSxm4mso8/edit?usp=sharing)
 - Read and do all exercises in the following sections in our main book:
