@@ -13,7 +13,10 @@
 ### Day 17: In class
 
 - Discussion about Exam E1
-- Structured review - Complete [TR1: Peerwise Review for E1](https://docs.google.com/document/d/1u_Aax2_9kGaLP43nP89y60IEVBE8m3ixgohwLkevskU/edit?usp=sharing) **Note that due to the nature of this teamwork, it cannot be completed late or alone.**
+- Structured review - Complete [TR1: Peerwise Review for E1](https://docs.google.com/document/d/1u_Aax2_9kGaLP43nP89y60IEVBE8m3ixgohwLkevskU/edit?usp=sharing)
+  - Submit your pdf to Moodle
+  - Submit your questions to Peerwise asap but for certain by 5 pm today
+  - **Note that due to the nature of this teamwork, it cannot be completed late or alone.**
 - Announce homework
 
 ### Day 17: Outside of class
