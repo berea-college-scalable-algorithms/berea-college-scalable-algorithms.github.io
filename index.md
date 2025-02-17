@@ -8,9 +8,27 @@
 
 ### Announcement: Exam E1 will be Wednesday, February 17, 2025
 
-## Day 16: Friday, February 14, 2025 
+## Day 17: Monday, February 17, 2025
 
-## Happy Valentine's Day
+### Day 17: In class
+
+- Discussion about Exam E1
+- Structured review - Complete [TR1: Peerwise Review for E1](https://docs.google.com/document/d/1u_Aax2_9kGaLP43nP89y60IEVBE8m3ixgohwLkevskU/edit?usp=sharing) ***Note that due to the nature of this teamwork, it cannot be completed late or alone.*
+- Announce homework
+
+### Day 17: Outside of class
+
+- For Wednesday, study for upcoming Exam E1
+- For Friday complete [A07: Uber Drivers Say a ‘Racist’ Algorithm Is Putting Them Out of Work](https://docs.google.com/document/d/1JGEp32jTcYLXLxPM72Cg7phZwogaKgy1SdvtikO0VJE/edit?usp=sharing). 
+- Fror Friday read and do all exercises in the following sections in our main book:
+  - [11.01 Chapter Introduction: Memory Management](https://canvas.instructure.com/courses/10990311/modules/items/123230477)
+  - [11.02 Dynamic Storage Allocation](https://canvas.instructure.com/courses/10990311/modules/items/123230478)
+  - [11.03 Sequential-Fit Methods](https://canvas.instructure.com/courses/10990311/modules/items/123230479)
+  - [11.04 First Fit](https://canvas.instructure.com/courses/10990311/assignments/52126473?module_item_id=123230481)
+
+## Day 16: Friday, February 14, 2025
+
+### Happy Valentine's Day!
 
 ### Day 16: In class
 
