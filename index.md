@@ -23,7 +23,7 @@
   - [11.03 Sequential-Fit Methods](https://canvas.instructure.com/courses/10990311/modules/items/123230479)
   - [11.04 First Fit](https://canvas.instructure.com/courses/10990311/assignments/52126473?module_item_id=123230481)
 
-## Day 18: Wednesday, February 19, 2025 - CLASSES CANCELLED
+## Wednesday, February 19, 2025 - CLASSES CANCELLED
 
 ## Day 17: Monday, February 17, 2025
 
