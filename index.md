@@ -6,7 +6,24 @@
 
 ---
 
-### Announcement: Exam E1 will be Wednesday, February 19, 2025
+### Announcement: Exam E1 will be ~~Wednesday,~~ Friday, February ~~19~~ 21, 2025
+
+## Day 18: Friday, February 21, 2025
+
+### Day 18: In class
+
+- Exam E1 will take place in class
+
+### Day 18: Outside of class
+
+- For Monday complete [A07: Uber Drivers Say a ‘Racist’ Algorithm Is Putting Them Out of Work](https://docs.google.com/document/d/1JGEp32jTcYLXLxPM72Cg7phZwogaKgy1SdvtikO0VJE/edit?usp=sharing). 
+- For Monday read and do all exercises in the following sections in our main book:
+  - [11.01 Chapter Introduction: Memory Management](https://canvas.instructure.com/courses/10990311/modules/items/123230477)
+  - [11.02 Dynamic Storage Allocation](https://canvas.instructure.com/courses/10990311/modules/items/123230478)
+  - [11.03 Sequential-Fit Methods](https://canvas.instructure.com/courses/10990311/modules/items/123230479)
+  - [11.04 First Fit](https://canvas.instructure.com/courses/10990311/assignments/52126473?module_item_id=123230481)
+
+## Day 18: Wednesday, February 19, 2025 - CLASSES CANCELLED
 
 ## Day 17: Monday, February 17, 2025
 
@@ -23,7 +40,7 @@
 
 - For Wednesday, study for upcoming Exam E1
 - For Friday complete [A07: Uber Drivers Say a ‘Racist’ Algorithm Is Putting Them Out of Work](https://docs.google.com/document/d/1JGEp32jTcYLXLxPM72Cg7phZwogaKgy1SdvtikO0VJE/edit?usp=sharing). 
-- Fror Friday read and do all exercises in the following sections in our main book:
+- For Friday read and do all exercises in the following sections in our main book:
   - [11.01 Chapter Introduction: Memory Management](https://canvas.instructure.com/courses/10990311/modules/items/123230477)
   - [11.02 Dynamic Storage Allocation](https://canvas.instructure.com/courses/10990311/modules/items/123230478)
   - [11.03 Sequential-Fit Methods](https://canvas.instructure.com/courses/10990311/modules/items/123230479)
