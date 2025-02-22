@@ -6,6 +6,25 @@
 
 ---
 
+## Day 19: Monday, February 24, 2025
+
+### Day 19: In class
+
+- quiz or PI
+- Discuss [A07: Uber Drivers Say a ‘Racist’ Algorithm Is Putting Them Out of Work](https://docs.google.com/document/d/1JGEp32jTcYLXLxPM72Cg7phZwogaKgy1SdvtikO0VJE/edit?usp=sharing)
+- in class work
+- Discuss readings from textbook
+
+### Day 19: Outside of class
+
+- Read and do all exercises in the following sections in our main book:
+  - [11.05 Circular First Fit](https://canvas.instructure.com/courses/10990311/modules/items/123230482)
+  - [11.06 Best Fit](https://canvas.instructure.com/courses/10990311/modules/items/123230483)
+  - [11.07 Worst Fit](https://canvas.instructure.com/courses/10990311/modules/items/123230484)
+  - [11.08 Sequential Fit Performance](https://canvas.instructure.com/courses/10990311/modules/items/123230485)
+  - [11.09 Other Memory Allocation Methods](https://canvas.instructure.com/courses/10990311/modules/items/123230486)
+  - [11.10 Failure Policies and Garbage Collection](https://canvas.instructure.com/courses/10990311/modules/items/123230487)
+
 ### Announcement: Exam E1 will be ~~Wednesday,~~ Friday, February ~~19~~ 21, 2025
 
 ## Day 18: Friday, February 21, 2025
