@@ -10,9 +10,9 @@
 
 ### Day 19: In class
 
-- quiz or PI
+- possible quiz or PI
 - Discuss [A07: Uber Drivers Say a ‘Racist’ Algorithm Is Putting Them Out of Work](https://docs.google.com/document/d/1JGEp32jTcYLXLxPM72Cg7phZwogaKgy1SdvtikO0VJE/edit?usp=sharing)
-- in class work
+- Try to complete [T07: Exploring Memory Management](https://docs.google.com/document/d/137tyvNElqg-C5-RSBaHFtVFiW7MzYPEINUTmofV5U7U/edit?usp=sharing)
 - Discuss readings from textbook
 
 ### Day 19: Outside of class
