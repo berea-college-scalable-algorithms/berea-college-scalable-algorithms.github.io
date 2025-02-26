@@ -6,6 +6,22 @@
 
 ---
 
+## Day 20: Wednesday, February 26, 2025
+
+### Day 20: In class
+
+- possible quiz or PI
+- Debrief on exam E1
+- Discuss readings from textbook
+- Complete [T07: Exploring Memory Management](https://docs.google.com/document/d/137tyvNElqg-C5-RSBaHFtVFiW7MzYPEINUTmofV5U7U/edit?usp=sharing)
+
+### Day 20: Outside of class
+
+Read and do all exercises in all of the following:
+- [12.01 Indexing Chapter Introduction](https://canvas.instructure.com/courses/10990311/modules/items/123230488)
+- [12.02 Linear Indexing](https://canvas.instructure.com/courses/10990311/assignments/52126474?module_item_id=123230490)
+- [12.03 ISAM](https://canvas.instructure.com/courses/10990311/modules/items/123230491)
+
 ## Day 19: Monday, February 24, 2025
 
 ### Day 19: In class
