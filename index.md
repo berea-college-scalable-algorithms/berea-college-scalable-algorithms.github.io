@@ -16,9 +16,10 @@
 
 ### Day 21: Outside of class
 
-Read and do all exercises in all of the following:
-- [12.04: Tree-Based Indexing](https://canvas.instructure.com/courses/10990311/assignments/52126475?module_item_id=123230493)
-- [12.05: 2-3-Trees](https://canvas.instructure.com/courses/10990311/modules/items/123230494)
+- For Monday after break, complete [A08: Ethics Case - How AI can identify people even in anonymized datasets](https://docs.google.com/document/d/18ABeSTZAfYlF-US173m2RxRyblM__EQG5_V5gX_CEio/edit?usp=sharing).
+- For MOnday after break, read and do all exercises in all of the following:
+  - [12.04: Tree-Based Indexing](https://canvas.instructure.com/courses/10990311/assignments/52126475?module_item_id=123230493)
+  - [12.05: 2-3-Trees](https://canvas.instructure.com/courses/10990311/modules/items/123230494)
 
 ## Day 20: Wednesday, February 26, 2025
 
