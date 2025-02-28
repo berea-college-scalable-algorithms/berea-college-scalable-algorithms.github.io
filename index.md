@@ -6,6 +6,20 @@
 
 ---
 
+## Day 21: Friday, February 28, 2025
+
+### Day 21: In class
+
+- Discuss readings from textbook
+- Complete [T08: Exploring Indexing](https://docs.google.com/document/d/18d3GBaVSax6vKCoeeX2A0i7NzbNerTVZYMY6ngWtuTY/edit?usp=sharing)
+- Announce homework
+
+### Day 21: Outside of class
+
+Read and do all exercises in all of the following:
+- [12.04: Tree-Based Indexing](https://canvas.instructure.com/courses/10990311/assignments/52126475?module_item_id=123230493)
+- [12.05: 2-3-Trees](https://canvas.instructure.com/courses/10990311/modules/items/123230494)
+
 ## Day 20: Wednesday, February 26, 2025
 
 ### Day 20: In class
