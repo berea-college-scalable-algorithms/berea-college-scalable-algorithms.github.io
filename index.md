@@ -6,6 +6,24 @@
 
 ---
 
+## Day 22: Monday, March 10, 2025
+
+### Day 22: In class
+
+- Discuss [A08: Ethics Case - How AI can identify people even in anonymized datasets](https://docs.google.com/document/d/18ABeSTZAfYlF-US173m2RxRyblM__EQG5_V5gX_CEio/edit?usp=sharing)
+- Discuss readings from textbook
+- Inquire on how CodeWars problem-solving went over break. Please remember that **you are responsible** for having completed those that we begin in class. You have about a week on each. Quizzes are possible!
+- Complete [T09: Tree-Based Indexing and 2-3 Trees](https://docs.google.com/document/d/17MMkLX8qx3ptUZKj9DKRzSeg-iCiJVx05TVYR2WY3sA/edit?usp=sharing)
+- Announce homework
+
+### Day 22: Outside of class
+
+- For next time, read and do all exercises in all of the following:
+  - [12.06 B-Trees](https://canvas.instructure.com/courses/10990311/assignments/52126476?module_item_id=123230496)
+  - [12.07 Indexing Summary Exercises](https://canvas.instructure.com/courses/10990311/assignments/52126477?module_item_id=123230498)
+
+## Enjoy Spring Break!
+
 ## Day 21: Friday, February 28, 2025
 
 ### Day 21: In class
