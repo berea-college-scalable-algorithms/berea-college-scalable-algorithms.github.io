@@ -6,6 +6,21 @@
 
 ---
 
+## Day 23: Wednesday, March 12, 2025
+
+### Day 23: In class
+
+- Discuss readings from textbook
+- Possible quiz or PI
+- Complete [T09: Tree-Based Indexing and 2-3 Trees](https://docs.google.com/document/d/17MMkLX8qx3ptUZKj9DKRzSeg-iCiJVx05TVYR2WY3sA/edit?usp=sharing)
+- Announce homework
+
+### Day 23: Outside of class
+
+- For next time, read and do all exercises in all of the following:
+  - [13.01 General Trees](https://canvas.instructure.com/courses/10990311/modules/items/123230499)
+  - [13.02 Union/Find and the Parent Pointer Implementation](https://canvas.instructure.com/courses/10990311/modules/items/123230502)
+
 ## Day 22: Monday, March 10, 2025
 
 ### Day 22: In class
@@ -13,7 +28,7 @@
 - Discuss [A08: Ethics Case - How AI can identify people even in anonymized datasets](https://docs.google.com/document/d/18ABeSTZAfYlF-US173m2RxRyblM__EQG5_V5gX_CEio/edit?usp=sharing)
 - Discuss readings from textbook
 - Inquire on how CodeWars problem-solving went over break. Please remember that **you are responsible** for having completed those that we begin in class. You have about a week on each. Quizzes are possible!
-- Complete [T09: Tree-Based Indexing and 2-3 Trees](https://docs.google.com/document/d/17MMkLX8qx3ptUZKj9DKRzSeg-iCiJVx05TVYR2WY3sA/edit?usp=sharing)
+- Begin [T09: Tree-Based Indexing and 2-3 Trees](https://docs.google.com/document/d/17MMkLX8qx3ptUZKj9DKRzSeg-iCiJVx05TVYR2WY3sA/edit?usp=sharing)
 - Announce homework
 
 ### Day 22: Outside of class
