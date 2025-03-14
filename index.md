@@ -6,6 +6,21 @@
 
 ---
 
+## Day 24: Friday, March 14, 2025
+
+### Day 24: In class
+
+- Possible quiz or PI
+- Discuss readings from textbook
+- Complete [T10: Exploring General Trees](https://docs.google.com/document/d/1KeX-mDOGS1Oc66rHMhZ-CEAQoJxx8ZgzICdF4qIS3xo/edit?usp=sharing)
+- Announce homework
+
+### Day 24: Outside of class
+
+  - Complete [A09: Fired by Bot](https://docs.google.com/document/d/1GMgSe6Qv09rPpdbaRIcGw6IB8BoeziFs-w02cDUUsZo/edit?usp=sharing).
+- For next time, read and do all exercises in all of the following:
+  - [13.03 Sequential Tree Representations](https://canvas.instructure.com/courses/10990311/assignments/52126480?module_item_id=123230504)
+
 ## Day 23: Wednesday, March 12, 2025
 
 ### Day 23: In class
