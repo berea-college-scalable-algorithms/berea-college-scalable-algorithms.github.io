@@ -6,13 +6,31 @@
 
 ---
 
+
+## Day 25: Monday, March 17, 2025
+
+### Day 25: In class
+
+- Possible quiz or PI
+- Discuss [A09: Fired by Bot](https://docs.google.com/document/d/1GMgSe6Qv09rPpdbaRIcGw6IB8BoeziFs-w02cDUUsZo/edit?usp=sharing)
+- Discuss readings from textbook
+- Complete [T10: Exploring General Trees](https://docs.google.com/document/d/1KeX-mDOGS1Oc66rHMhZ-CEAQoJxx8ZgzICdF4qIS3xo/edit?usp=sharing)
+- Work in [Codewars](https://www.codewars.com/)
+- Announce homework
+
+### Day 25: Outside of class
+
+- For next time, read and do all exercises in the following:
+  - [14.1. Graphs Chapter Introduction](https://canvas.instructure.com/courses/10990311/assignments/52126481?module_item_id=123230506)
+  - [14.2. Graph Implementations](https://canvas.instructure.com/courses/10990311/modules/items/123230507)
+
 ## Day 24: Friday, March 14, 2025
 
 ### Day 24: In class
 
 - Possible quiz or PI
 - Discuss readings from textbook
-- Complete [T10: Exploring General Trees](https://docs.google.com/document/d/1KeX-mDOGS1Oc66rHMhZ-CEAQoJxx8ZgzICdF4qIS3xo/edit?usp=sharing)
+- Begin [T10: Exploring General Trees](https://docs.google.com/document/d/1KeX-mDOGS1Oc66rHMhZ-CEAQoJxx8ZgzICdF4qIS3xo/edit?usp=sharing)
 - Announce homework
 
 ### Day 24: Outside of class
