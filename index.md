@@ -6,6 +6,21 @@
 
 ---
 
+## Day 26: Wednesday, March 19, 2025
+
+### Day 26: In class
+
+- Possible quiz or PI
+- Discuss readings from textbook
+- Begin [T11: Exploring Graph Applications](https://docs.google.com/document/d/1Z4kwfbK7Epj4RUfvURtirjOZETKg-VxHT-XeU6kM_N8/edit?usp=drive_link)
+- Work in [Codewars](https://www.codewars.com/)
+- Announce homework
+
+### Day 26: Outside of class
+
+- For next time, read and do all exercises in the following:
+  - [14.3: Graph Traversals](https://canvas.instructure.com/courses/10990311/assignments/52126482?module_item_id=123230509)
+  - [14.4: Topological Sort](https://canvas.instructure.com/courses/10990311/modules/items/123230510)
 
 ## Day 25: Monday, March 17, 2025
 
