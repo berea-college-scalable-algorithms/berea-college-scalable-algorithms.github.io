@@ -6,6 +6,23 @@
 
 ---
 
+## Day 27: Friday, March 21, 2025
+
+### Day 27: In class
+
+- Possible quiz or PI
+- Discuss readings from textbook
+- Complete [T11: Exploring Graph Applications](https://docs.google.com/document/d/1Z4kwfbK7Epj4RUfvURtirjOZETKg-VxHT-XeU6kM_N8/edit?usp=drive_link)
+- Work in [Codewars](https://www.codewars.com/)
+- Announce homework
+
+### Day 27: Outside of class
+
+  - Complete [A10: Ethics Case -- Brain Computer Interfaces](https://docs.google.com/document/d/1k8HV4YfJXma41b5aAlB73fazoeRvbJpxjpA0zXquHr0/edit?usp=sharing)
+- For next time, read and do all exercises in the following:
+  - [14.5: Shortest Path Problems](https://canvas.instructure.com/courses/10990311/assignments/52126483?module_item_id=123230512)
+
+
 ## Day 26: Wednesday, March 19, 2025
 
 ### Day 26: In class
