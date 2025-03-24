@@ -6,6 +6,23 @@
 
 ---
 
+## Day 28: Monday, March 24, 2025
+
+### Day 28: In class
+
+- Possible quiz or PI
+- Discuss Complete [A10: Ethics Case – Brain Computer Interfaces](hhttps://docs.google.com/document/d/1k8HV4YfJXma41b5aAlB73fazoeRvbJpxjpA0zXquHr0/edit?usp=sharing)
+- Discuss readings from textbook
+- Begin [T12: Graphs and Games](https://docs.google.com/document/d/1f6duxJ7uzhB9csKBSYvWtnX9K_79h-9ML_fe2Z87G0A/edit?usp=sharing)
+- Work in [Codewars](https://www.codewars.com/)
+- Announce homework
+
+### Day 28: Outside of class
+
+- For next time, read and do all exercises in the following:
+  - [14.6: Minimal Cost Spanning Trees](https://canvas.instructure.com/courses/10990311/modules/items/123230514)
+  - [14.7: Kruskal's Algorithm](https://canvas.instructure.com/courses/10990311/modules/items/123230522)
+
 ## Day 27: Friday, March 21, 2025
 
 ### Day 27: In class
@@ -17,11 +34,9 @@
 - Announce homework
 
 ### Day 27: Outside of class
-
-  - Complete [A10: Ethics Case -- Brain Computer Interfaces](https://docs.google.com/document/d/1k8HV4YfJXma41b5aAlB73fazoeRvbJpxjpA0zXquHr0/edit?usp=sharing)
-- For next time, read and do all exercises in the following:
-  - [14.5: Shortest Path Problems](https://canvas.instructure.com/courses/10990311/assignments/52126483?module_item_id=123230512)
-
+  
+- Complete [A10: Ethics Case – Brain Computer Interfaces](hhttps://docs.google.com/document/d/1k8HV4YfJXma41b5aAlB73fazoeRvbJpxjpA0zXquHr0/edit?usp=sharing)
+- Read and complete all exercises in [14.5: Shortest Path Problems](https://canvas.instructure.com/courses/10990311/assignments/52126483?module_item_id=123230512)
 
 ## Day 26: Wednesday, March 19, 2025
 
