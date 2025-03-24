@@ -14,7 +14,7 @@
 - Discuss Complete [A10: Ethics Case – Brain Computer Interfaces](hhttps://docs.google.com/document/d/1k8HV4YfJXma41b5aAlB73fazoeRvbJpxjpA0zXquHr0/edit?usp=sharing)
 - Discuss readings from textbook
 - Begin [T12: Graphs and Games](https://docs.google.com/document/d/1f6duxJ7uzhB9csKBSYvWtnX9K_79h-9ML_fe2Z87G0A/edit?usp=sharing)
-- Work in [Codewars](https://www.codewars.com/)
+- If time permits, work in [Codewars](https://www.codewars.com/)
 - Announce homework
 
 ### Day 28: Outside of class
