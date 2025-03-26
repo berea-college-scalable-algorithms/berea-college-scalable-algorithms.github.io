@@ -6,6 +6,24 @@
 
 ---
 
+## Day 29: Wednesday, March 26, 2025
+
+### Day 29: In class
+
+- Possible quiz or PI
+- Discuss readings from textbook
+- Try to Complete [T12: Graphs and Games](https://docs.google.com/document/d/1f6duxJ7uzhB9csKBSYvWtnX9K_79h-9ML_fe2Z87G0A/edit?usp=sharing)
+- If time permits, work in [Codewars](https://www.codewars.com/)
+- Announce homework
+
+### Day 29: Outside of class
+
+- For next time, read and do all exercises in the following:
+  - [15.1 Skip Lists](https://canvas.instructure.com/courses/10990311/modules/items/123230526)
+  - [Baeldung: The Skiplist Data Structure](https://www.baeldung.com/cs/skip-lists)
+- Optional Reading:
+  - [Baeldung: SkipList Implementation in Java](https://www.baeldung.com/java-skiplist)
+
 ## Day 28: Monday, March 24, 2025
 
 ### Day 28: In class
