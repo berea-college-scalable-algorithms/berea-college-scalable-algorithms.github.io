@@ -6,30 +6,47 @@
 
 ---
 
-## Day 29: Wednesday, March 26, 2025
+## Day 30: Friday, March 28, 2025
 
-### Day 29: In class
+### Day 30: In class
 
 - Possible quiz or PI
 - Discuss readings from textbook
-- Try to Complete [T12: Graphs and Games](https://docs.google.com/document/d/1f6duxJ7uzhB9csKBSYvWtnX9K_79h-9ML_fe2Z87G0A/edit?usp=sharing)
+- Complete [T13: Graphs and Epidemiology](https://docs.google.com/document/d/1WspLWNw-EXm2HRYJqRFzx-Kn9ba0zrZitwh45cEbO3E/edit?usp=sharing)
 - If time permits, work in [Codewars](https://www.codewars.com/)
 - Announce homework
 
-### Day 29: Outside of class
+### Day 30: Outside of class
 
+- Complete [A11: Ethics Case – Quantum Ethics](https://docs.google.com/document/d/1phXw1u319uA99iUUyWZpjCYRS2UFMyjUpwf_NXGpjl4/edit?usp=sharing)
 - For next time, read and do all exercises in the following:
   - [15.1 Skip Lists](https://canvas.instructure.com/courses/10990311/modules/items/123230526)
   - [Baeldung: The Skiplist Data Structure](https://www.baeldung.com/cs/skip-lists)
 - Optional Reading:
   - [Baeldung: SkipList Implementation in Java](https://www.baeldung.com/java-skiplist)
 
+## Day 29: Wednesday, March 26, 2025
+
+### Day 29: In class
+
+- Possible quiz or PI
+- Discuss readings from textbook
+- Complete [T12: Graphs and Games](https://docs.google.com/document/d/1f6duxJ7uzhB9csKBSYvWtnX9K_79h-9ML_fe2Z87G0A/edit?usp=sharing)
+- If time permits, work in [Codewars](https://www.codewars.com/)
+- Announce homework
+
+### Day 29: Outside of class
+
+- For next time, read and do all exercises in the following:
+  - [14.8 All-Pairs Shortest Paths](https://canvas.instructure.com/courses/10990311/modules/items/123230523)
+  - [14.9 Graph Concepts Summary](https://canvas.instructure.com/courses/10990311/assignments/52126488?module_item_id=123230525)
+
 ## Day 28: Monday, March 24, 2025
 
 ### Day 28: In class
 
 - Possible quiz or PI
-- Discuss Complete [A10: Ethics Case – Brain Computer Interfaces](hhttps://docs.google.com/document/d/1k8HV4YfJXma41b5aAlB73fazoeRvbJpxjpA0zXquHr0/edit?usp=sharing)
+- Discuss Complete [A10: Ethics Case – Brain Computer Interfaces](https://docs.google.com/document/d/1k8HV4YfJXma41b5aAlB73fazoeRvbJpxjpA0zXquHr0/edit?usp=sharing)
 - Discuss readings from textbook
 - Begin [T12: Graphs and Games](https://docs.google.com/document/d/1f6duxJ7uzhB9csKBSYvWtnX9K_79h-9ML_fe2Z87G0A/edit?usp=sharing)
 - If time permits, work in [Codewars](https://www.codewars.com/)
@@ -132,8 +149,10 @@
 ### Day 22: Outside of class
 
 - For next time, read and do all exercises in all of the following:
-  - [12.06 B-Trees](https://canvas.instructure.com/courses/10990311/assignments/52126476?module_item_id=123230496)
+  - [12.6 B-Trees](https://canvas.instructure.com/courses/10990311/assignments/52126476?module_item_id=123230496)
   - [12.07 Indexing Summary Exercises](https://canvas.instructure.com/courses/10990311/assignments/52126477?module_item_id=123230498)
+- Optional Reading:
+  - [Baeldung: B-tree Data Structure](https://www.baeldung.com/cs/b-tree-data-structure)
 
 ## Enjoy Spring Break!
 
