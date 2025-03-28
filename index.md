@@ -454,6 +454,7 @@ work on solving problems on [Codewars](https://www.codewars.com/).
   - [6.2 Alternative List ADT Designs](https://canvas.instructure.com/courses/10990311/modules/items/123230378)
   - [6.3 Comparing Records](https://canvas.instructure.com/courses/10990311/modules/items/123230378)
   - [6.4 The Dictionary ADT](https://canvas.instructure.com/courses/10990311/assignments/52126435?module_item_id=123230382)
+  - [Set Operations in Java | Baeldung](https://www.baeldung.com/java-set-operations)
 
 ## Day 4: Wednesday, January 15, 2025
 
