@@ -6,6 +6,24 @@
 
 ---
 
+## Day 31 Monday, March 31, 2025
+
+### Day 31: In class
+
+- Possible quiz or PI
+- Discuss readings from textbook
+- Complete [T14: Skiplists](https://docs.google.com/document/d/12GOBGQqsnpFyMM66JHFzmEGC6vNJ8Sl1fWz_BsOsT4E/edit?usp=drive_link)
+- If time permits, work in [Codewars](https://www.codewars.com/)
+- Announce homework
+
+### Day 31: Outside of class
+
+- For next time, read and do all exercises in the following:
+  - [15.2 Spatial Data Structures](https://canvas.instructure.com/courses/10990311/modules/items/123230527)
+  - [15.3 The PR Quadtree](https://canvas.instructure.com/courses/10990311/modules/items/123230528)
+- Optional Reading:
+  - [Baeldung: PR Quadtree Implementation in Java](https://courses.cs.vt.edu/~cs3114/Fall10/Notes/T07.PRQuadTreeImplementation.pdf)
+
 ## Day 30: Friday, March 28, 2025
 
 ### Day 30: In class
