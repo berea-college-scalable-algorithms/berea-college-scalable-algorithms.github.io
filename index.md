@@ -6,7 +6,7 @@
 
 ---
 
-## Day 31 Monday, March 31, 2025
+## Day 31: Monday, March 31, 2025
 
 ### Day 31: In class
 
@@ -22,7 +22,7 @@
   - [15.2 Spatial Data Structures](https://canvas.instructure.com/courses/10990311/modules/items/123230527)
   - [15.3 The PR Quadtree](https://canvas.instructure.com/courses/10990311/modules/items/123230528)
 - Optional Reading:
-  - [Baeldung: PR Quadtree Implementation in Java](https://courses.cs.vt.edu/~cs3114/Fall10/Notes/T07.PRQuadTreeImplementation.pdf)
+  - [PR Quadtree Implementation in Java](https://courses.cs.vt.edu/~cs3114/Fall10/Notes/T07.PRQuadTreeImplementation.pdf)
 
 ## Day 30: Friday, March 28, 2025
 
