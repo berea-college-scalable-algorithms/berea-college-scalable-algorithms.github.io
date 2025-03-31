@@ -11,6 +11,7 @@
 ### Day 31: In class
 
 - Possible quiz or PI
+- Discuss [A11: Ethics Case – Quantum Ethics](https://docs.google.com/document/d/1phXw1u319uA99iUUyWZpjCYRS2UFMyjUpwf_NXGpjl4/edit?usp=sharing)
 - Discuss readings from textbook
 - Complete [T14: Skiplists](https://docs.google.com/document/d/12GOBGQqsnpFyMM66JHFzmEGC6vNJ8Sl1fWz_BsOsT4E/edit?usp=drive_link)
 - If time permits, work in [Codewars](https://www.codewars.com/)
