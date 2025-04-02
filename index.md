@@ -6,6 +6,26 @@
 
 ---
 
+## Day 32: Wednesday, April 2, 2025
+
+### Day 32: In class
+
+- Possible quiz or PI
+- Discuss readings
+- Discuss upcoming technical interviews and [CSC 246 Technical Interview Rubric](https://docs.google.com/document/d/1mL9oXxRktpi02JAucykKe43AsaLF5HwN1oMXM2cFSek/edit?usp=drive_link)
+- Complete [T14: Skiplists](https://docs.google.com/document/d/12GOBGQqsnpFyMM66JHFzmEGC6vNJ8Sl1fWz_BsOsT4E/edit?usp=drive_link)
+- If time permits, work in [Codewars](https://www.codewars.com/)
+- Announce homework
+
+### Day 32: Outside of class
+
+- For next time, read and do all exercises in the following:
+  - [5.4 KD Trees](https://canvas.instructure.com/courses/10990311/modules/items/123230529)
+  - Optional Reading: [Java Program to Construct K-D Tree](https://www.geeksforgeeks.org/java-program-to-construct-k-d-tree/?ref=ml_lbp)
+  - [15.5 The Bintree](https://canvas.instructure.com/courses/10990311/modules/items/123230530)
+  - [15.6 Other Spatial Data Structures](https://canvas.instructure.com/courses/10990311/modules/items/123230531)
+  - [Partitioning 2D Spaces: An Introduction to Quadtrees | by Jessica Trinh | DataDrivenInvestor](https://medium.datadriveninvestor.com/partitioning-2d-spaces-an-introduction-to-quadtrees-d95728856613)
+
 ## Day 31: Monday, March 31, 2025
 
 ### Day 31: In class
@@ -13,7 +33,7 @@
 - Possible quiz or PI
 - Discuss [A11: Ethics Case – Quantum Ethics](https://docs.google.com/document/d/1phXw1u319uA99iUUyWZpjCYRS2UFMyjUpwf_NXGpjl4/edit?usp=sharing)
 - Discuss readings from textbook
-- Complete [T14: Skiplists](https://docs.google.com/document/d/12GOBGQqsnpFyMM66JHFzmEGC6vNJ8Sl1fWz_BsOsT4E/edit?usp=drive_link)
+- Begin [T14: Skiplists](https://docs.google.com/document/d/12GOBGQqsnpFyMM66JHFzmEGC6vNJ8Sl1fWz_BsOsT4E/edit?usp=drive_link)
 - If time permits, work in [Codewars](https://www.codewars.com/)
 - Announce homework
 
