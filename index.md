@@ -24,7 +24,7 @@
   - Optional Reading: [Java Program to Construct K-D Tree](https://www.geeksforgeeks.org/java-program-to-construct-k-d-tree/?ref=ml_lbp)
   - [15.5 The Bintree](https://canvas.instructure.com/courses/10990311/modules/items/123230530)
   - [15.6 Other Spatial Data Structures](https://canvas.instructure.com/courses/10990311/modules/items/123230531)
-  - [Partitioning 2D Spaces: An Introduction to Quadtrees | by Jessica Trinh | DataDrivenInvestor](https://medium.datadriveninvestor.com/partitioning-2d-spaces-an-introduction-to-quadtrees-d95728856613)
+  - [Partitioning 2D Spaces: An Introduction to Quadtrees](https://medium.datadriveninvestor.com/partitioning-2d-spaces-an-introduction-to-quadtrees-d95728856613)
 
 ## Day 31: Monday, March 31, 2025
 
