@@ -25,7 +25,7 @@
   - [15.5 The Bintree](https://canvas.instructure.com/courses/10990311/modules/items/123230530)
   - [15.6 Other Spatial Data Structures](https://canvas.instructure.com/courses/10990311/modules/items/123230531)
   - [Partitioning 2D Spaces: An Introduction to Quadtrees](https://medium.datadriveninvestor.com/partitioning-2d-spaces-an-introduction-to-quadtrees-d95728856613)
-  - Recommended Prompt for [AI Tutor Pro](https://www.aitutorpro.ca/), or [CoPilot](https://copilot.microsoft.com) or another AI tool is "Hi and good morning. I want to practice a coding interview for Tree & Graph algorithms using pseudcode as an undergraduate student. Can you give me a problem to solve and answer my questions as if you're an interviewer, but please don't give me the answer. Only help me with hints so that I get there myself, when asked." This prompt will help you to prepare for the upcoming technical interviews.
+  - Recommended Prompt for [AI Tutor Pro](https://www.aitutorpro.ca/), or [Microsoft CoPilot](https://copilot.microsoft.com) or another AI tool is "Hi and good morning. I want to practice a coding interview for Tree & Graph algorithms using pseudcode as an undergraduate student. Can you give me a problem to solve and answer my questions as if you're an interviewer, but please don't give me the answer. Only help me with hints so that I get there myself, when asked." This prompt will help you to prepare for the upcoming technical interviews.
 
 ## Day 31: Monday, March 31, 2025
 
