@@ -6,6 +6,24 @@
 
 ---
 
+## Day 33: Friday, April 4, 2025
+
+### Day 33: In class
+
+- Possible quiz or PI
+- Discuss readings
+- Discuss technical interviews and [CSC 246 Technical Interview Rubric](https://docs.google.com/document/d/1odb0xbnKIPDHFtg7pO7RXzgWbsE3oCCDf3NcjrKOhBQ/edit?usp=drive_link)
+- Discuss [Final Project Requirements](https://docs.google.com/document/d/1rsuzrkQF1zygNBlXjjdzeRTpnXeGABqdOnfiOkepBvI/edit?usp=sharing)
+- Project teams draw numbers and choose project topics
+- Complete [FP1: Initial Project Planning ](https://docs.google.com/document/d/1v9CQfyYWY91OqjPE5J1aNQArElUV_kJgYcBC4CuWJc8/edit?usp=drive_link)
+- Announce homework
+
+### Day 33: Outside of class
+
+- For next time:
+  - Complete [A12: Ethics Case - The Ethics of Nanotechnology](https://docs.google.com/document/d/1r6Vc5mG0ZVzho5Px25k7kf-PQIDsCxt8On-28ive4dI/edit?usp=sharing)
+  - Reread project sections and complete all other homework assigned in [FP1: Initial Prohect Planning](https://docs.google.com/document/d/1v9CQfyYWY91OqjPE5J1aNQArElUV_kJgYcBC4CuWJc8/edit?usp=sharing)
+
 ## Day 32: Wednesday, April 2, 2025
 
 ### Day 32: In class
@@ -25,7 +43,7 @@
   - [15.5 The Bintree](https://canvas.instructure.com/courses/10990311/modules/items/123230530)
   - [15.6 Other Spatial Data Structures](https://canvas.instructure.com/courses/10990311/modules/items/123230531)
   - [Partitioning 2D Spaces: An Introduction to Quadtrees](https://medium.datadriveninvestor.com/partitioning-2d-spaces-an-introduction-to-quadtrees-d95728856613)
-  - Recommended Prompt for [AI Tutor Pro](https://www.aitutorpro.ca/), or [Microsoft CoPilot](https://copilot.microsoft.com) or another AI tool is "Hi and good morning. I want to practice a coding interview for Tree & Graph algorithms using pseudcode as an undergraduate student. Can you give me a problem to solve and answer my questions as if you're an interviewer, but please don't give me the answer. Only help me with hints so that I get there myself, when asked." This prompt will help you to prepare for the upcoming technical interviews.
+  - Recommended Prompt for [AI Tutor Pro](https://www.aitutorpro.ca/), or [Microsoft CoPilot](https://copilot.microsoft.com) or another AI tool is "Hi and good morning. I want to practice a coding interview for Tree & Graph algorithms using pseudocode as an undergraduate student. Can you give me a problem to solve and answer my questions as if you're an interviewer, but please don't give me the answer. Only help me with hints so that I get there myself, when asked." This prompt will help you to prepare for the upcoming technical interviews.
 
 ## Day 31: Monday, March 31, 2025
 
