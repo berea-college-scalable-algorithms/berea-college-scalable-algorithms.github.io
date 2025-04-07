@@ -10,7 +10,7 @@
 
 ### Day 34: In class
 
-- Discuss [A12: Ethics Case - The Ethics of Nanotechnology](https://docs.google.com/document/d/1r6Vc5mG0ZVzho5Px25k7kf-PQIDsCxt8On-28ive4dI/edit?usp=sharing) and the set of all ethics cases as a course component
+- ~~Discuss [A12: Ethics Case - The Ethics of Nanotechnology](https://docs.google.com/document/d/1r6Vc5mG0ZVzho5Px25k7kf-PQIDsCxt8On-28ive4dI/edit?usp=sharing) and the set of all ethics cases as a course component~~ Extended to Friday due to network outage
 - Discuss improvements to the technical interviews and [CSC 246 Technical Interview Rubric](https://docs.google.com/document/d/1odb0xbnKIPDHFtg7pO7RXzgWbsE3oCCDf3NcjrKOhBQ/edit?usp=drive_link)
 - Questions on [Final Project Requirements](https://docs.google.com/document/d/1rsuzrkQF1zygNBlXjjdzeRTpnXeGABqdOnfiOkepBvI/edit?usp=sharing)?
 - Complete [FP2: Project Problem Statement](https://docs.google.com/document/d/11Ta92OIPY8zACZ5m5dyFHv5hbIqEQG1l7T_rhnAJn6I/edit?usp=sharing)
