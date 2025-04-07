@@ -6,6 +6,22 @@
 
 ---
 
+## Day 34: Monday, April 7, 2025
+
+### Day 34: In class
+
+- Discuss [A12: Ethics Case - The Ethics of Nanotechnology](https://docs.google.com/document/d/1r6Vc5mG0ZVzho5Px25k7kf-PQIDsCxt8On-28ive4dI/edit?usp=sharing) and the set of all ethics cases as a course component
+- Discuss improvements to the technical interviews and [CSC 246 Technical Interview Rubric](https://docs.google.com/document/d/1odb0xbnKIPDHFtg7pO7RXzgWbsE3oCCDf3NcjrKOhBQ/edit?usp=drive_link)
+- Questions on [Final Project Requirements](https://docs.google.com/document/d/1rsuzrkQF1zygNBlXjjdzeRTpnXeGABqdOnfiOkepBvI/edit?usp=sharing)?
+- Complete [FP2: Project Problem Statement](https://docs.google.com/document/d/11Ta92OIPY8zACZ5m5dyFHv5hbIqEQG1l7T_rhnAJn6I/edit?usp=sharing)
+- Announce homework
+
+### Day 34: Outside of class
+
+- For next time:
+  - Complete [A13: Individual Review and Reflection for E2](https://docs.google.com/document/d/1gGT2wyQzjg8BkXI4aMWI3Re4qm3kq-4NWSo0ApY_Gy4/edit?usp=sharing). **Note that due to the nature of this assignment, it will not be accepted late.**
+  - Make progress on the final project and complete all homework assigned in [FP2: Project Problem Statement](https://docs.google.com/document/d/11Ta92OIPY8zACZ5m5dyFHv5hbIqEQG1l7T_rhnAJn6I/edit?usp=sharing) for Friday, April 11, 2025.
+
 ## Day 33: Friday, April 4, 2025
 
 ### Day 33: In class
@@ -23,6 +39,7 @@
 - For next time:
   - Complete [A12: Ethics Case - The Ethics of Nanotechnology](https://docs.google.com/document/d/1r6Vc5mG0ZVzho5Px25k7kf-PQIDsCxt8On-28ive4dI/edit?usp=sharing)
   - Reread project sections and complete all other homework assigned in [FP1: Initial Prohect Planning](https://docs.google.com/document/d/1v9CQfyYWY91OqjPE5J1aNQArElUV_kJgYcBC4CuWJc8/edit?usp=sharing)
+  - If time permits, use ecommended Prompt for [AI Tutor Pro](https://www.aitutorpro.ca/), or [Microsoft CoPilot](https://copilot.microsoft.com) or another AI tool is "Hi and good morning. I want to practice a coding interview for Tree & Graph algorithms using pseudocode as an undergraduate student. Can you give me a problem to solve and answer my questions as if you're an interviewer, but please don't give me the answer. Only help me with hints so that I get there myself, when asked." This prompt will help you to prepare for the upcoming technical interviews.
 
 ## Day 32: Wednesday, April 2, 2025
 
