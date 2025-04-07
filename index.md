@@ -18,9 +18,8 @@
 
 ### Day 34: Outside of class
 
-- For next time:
-  - Complete [A13: Individual Review and Reflection for E2](https://docs.google.com/document/d/1gGT2wyQzjg8BkXI4aMWI3Re4qm3kq-4NWSo0ApY_Gy4/edit?usp=sharing). **Note that due to the nature of this assignment, it will not be accepted late.**
-  - Make progress on the final project and complete all homework assigned in [FP2: Project Problem Statement](https://docs.google.com/document/d/11Ta92OIPY8zACZ5m5dyFHv5hbIqEQG1l7T_rhnAJn6I/edit?usp=sharing) for Friday, April 11, 2025.
+- Complete [A13: Individual Review and Reflection for E2](https://docs.google.com/document/d/1gGT2wyQzjg8BkXI4aMWI3Re4qm3kq-4NWSo0ApY_Gy4/edit?usp=sharing). **Note that due to the nature of this assignment, it will not be accepted late.**
+- Make progress on the final project and complete all homework assigned in [FP2: Project Problem Statement](https://docs.google.com/document/d/11Ta92OIPY8zACZ5m5dyFHv5hbIqEQG1l7T_rhnAJn6I/edit?usp=sharing) for Friday, April 11, 2025.
 
 ## Day 33: Friday, April 4, 2025
 
