@@ -16,7 +16,7 @@
 ### Day 35: Outside of class
 
 - Complete [FP2: Project Problem Statement](https://docs.google.com/document/d/11Ta92OIPY8zACZ5m5dyFHv5hbIqEQG1l7T_rhnAJn6I/edit?usp=sharing) along with all assigned homework for Friday.
-  - Technical interviews will continue on Friday, so you might consider using the recommended Prompt for [AI Tutor Pro](https://www.aitutorpro.ca/), or [Microsoft CoPilot](https://copilot.microsoft.com) or another AI tool is "Hi and good day. I want to practice a coding interview for Tree & Graph algorithms using pseudocode as an undergraduate student. Can you give me a problem to solve and answer my questions as if you're an interviewer, but please don't give me the answer. Please only help me with hints so that I get there myself, when asked." This prompt will help you to prepare for the ongoing technical interviews.
+- Technical interviews will continue on Friday, so you might consider using the recommended Prompt for [AI Tutor Pro](https://www.aitutorpro.ca/), or [Microsoft CoPilot](https://copilot.microsoft.com) or another AI tool is "Hi and good day. I want to practice a coding interview for Tree & Graph algorithms using pseudocode as an undergraduate student. Can you give me a problem to solve and answer my questions as if you're an interviewer, but please don't give me the answer. Please only help me with hints so that I get there myself, when asked." This prompt will help you to prepare for the ongoing technical interviews.
 
 ## Day 34: Monday, April 7, 2025
 
