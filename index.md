@@ -16,6 +16,7 @@
 ### Day 35: Outside of class
 
 - Complete [FP2: Project Problem Statement](https://docs.google.com/document/d/11Ta92OIPY8zACZ5m5dyFHv5hbIqEQG1l7T_rhnAJn6I/edit?usp=sharing) along with all assigned homework for Friday.
+  - Technical interviews will continue on Friday, so you might consider using the recommended Prompt for [AI Tutor Pro](https://www.aitutorpro.ca/), or [Microsoft CoPilot](https://copilot.microsoft.com) or another AI tool is "Hi and good day. I want to practice a coding interview for Tree & Graph algorithms using pseudocode as an undergraduate student. Can you give me a problem to solve and answer my questions as if you're an interviewer, but please don't give me the answer. Please only help me with hints so that I get there myself, when asked." This prompt will help you to prepare for the ongoing technical interviews.
 
 ## Day 34: Monday, April 7, 2025
 
@@ -49,7 +50,7 @@
 - For next time:
   - Complete [A12: Ethics Case - The Ethics of Nanotechnology](https://docs.google.com/document/d/1r6Vc5mG0ZVzho5Px25k7kf-PQIDsCxt8On-28ive4dI/edit?usp=sharing)
   - Reread project sections and complete all other homework assigned in [FP1: Initial Prohect Planning](https://docs.google.com/document/d/1v9CQfyYWY91OqjPE5J1aNQArElUV_kJgYcBC4CuWJc8/edit?usp=sharing)
-  - If time permits, use ecommended Prompt for [AI Tutor Pro](https://www.aitutorpro.ca/), or [Microsoft CoPilot](https://copilot.microsoft.com) or another AI tool is "Hi and good morning. I want to practice a coding interview for Tree & Graph algorithms using pseudocode as an undergraduate student. Can you give me a problem to solve and answer my questions as if you're an interviewer, but please don't give me the answer. Only help me with hints so that I get there myself, when asked." This prompt will help you to prepare for the upcoming technical interviews.
+  - If time permits, use recommended Prompt for [AI Tutor Pro](https://www.aitutorpro.ca/), or [Microsoft CoPilot](https://copilot.microsoft.com) or another AI tool is "Hi and good morning. I want to practice a coding interview for Tree & Graph algorithms using pseudocode as an undergraduate student. Can you give me a problem to solve and answer my questions as if you're an interviewer, but please don't give me the answer. Only help me with hints so that I get there myself, when asked." This prompt will help you to prepare for the upcoming technical interviews.
 
 ## Day 32: Wednesday, April 2, 2025
 
