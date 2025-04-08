@@ -6,6 +6,17 @@
 
 ---
 
+## Day 35: Wednesday, April 9, 2025
+
+### Day 35: In class
+
+- Complete [TR2: Peerwise Review for E2](https://docs.google.com/document/d/1sEblI-RpJMNFl68I47aEJp2mzIbj0BeAmybSrgmXfvQ/edit?usp=sharing)
+- If time permits, continue working on [FP2: Project Problem Statement](https://docs.google.com/document/d/11Ta92OIPY8zACZ5m5dyFHv5hbIqEQG1l7T_rhnAJn6I/edit?usp=sharing)
+
+### Day 35: Outside of class
+
+- Complete [FP2: Project Problem Statement](https://docs.google.com/document/d/11Ta92OIPY8zACZ5m5dyFHv5hbIqEQG1l7T_rhnAJn6I/edit?usp=sharing) along with all assigned homework for Friday.
+
 ## Day 34: Monday, April 7, 2025
 
 ### Day 34: In class
