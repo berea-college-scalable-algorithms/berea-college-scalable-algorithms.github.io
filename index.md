@@ -10,6 +10,7 @@
 
 ### Day 36: In class
 
+- Discuss [A12: Ethics Case - The Ethics of Nanotechnology](https://docs.google.com/document/d/1r6Vc5mG0ZVzho5Px25k7kf-PQIDsCxt8On-28ive4dI/edit?usp=sharing) and the set of all ethics cases as a course component
 - Questions on upcoming E2 exam, which will take place on Wednesday, April 16.
 - Technical interviews continue
 - Complete [FP3: Project Problem Refinement](https://docs.google.com/document/d/1sPAB7sPzNyqnHCrWa9aDr0-CoRzkrtRqVY3tNeIoftg/edit?usp=sharing). 
@@ -19,7 +20,6 @@
 - Study for exam E2. The topics covered are listed in [TR2: Peerwise Review for E2](https://docs.google.com/document/d/1sEblI-RpJMNFl68I47aEJp2mzIbj0BeAmybSrgmXfvQ/edit?usp=sharing). Note that using Peerwise will be helpful, but not sufficient preparation for exam E2.
 - Complete [FP3: Project Problem Refinement](https://docs.google.com/document/d/1sPAB7sPzNyqnHCrWa9aDr0-CoRzkrtRqVY3tNeIoftg/edit?usp=sharing) including all assigned homework.
 - Technical interviews will continue on Monday, so you might consider using the recommended Prompt for [AI Tutor Pro](https://www.aitutorpro.ca/), or [Microsoft CoPilot](https://copilot.microsoft.com) or another AI tool is "Hi and good day. I want to practice a coding interview for Tree & Graph algorithms using pseudocode as an undergraduate student. Can you give me a problem to solve and answer my questions as if you're an interviewer, but please don't give me the answer. Please only help me with hints so that I get there myself, when asked." This prompt will help you to prepare for the ongoing technical interviews.
-
 
 ## Day 35: Wednesday, April 9, 2025
 
