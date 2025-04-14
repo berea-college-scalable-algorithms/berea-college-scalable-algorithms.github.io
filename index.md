@@ -6,6 +6,18 @@
 
 ---
 
+## Day 37: Monday, April 14, 2025
+
+### Day 37: In class
+
+- Discuss Exam E2, which is in class on Wednesday
+- Complete [FP4: Initial Video Planning](https://docs.google.com/document/d/1pmxFyKSLNr4loop0dk8GVfcZc4uLqOu5QMKLTimWJQI/edit?usp=sharing). 
+
+### Day 37: Outside of class
+
+- Study for exam E2. The topics covered are listed in [TR2: Peerwise Review for E2](https://docs.google.com/document/d/1sEblI-RpJMNFl68I47aEJp2mzIbj0BeAmybSrgmXfvQ/edit?usp=sharing). Note that using Peerwise will be helpful, but not sufficient preparation for exam E2.
+- Complete homework from [FP4: Initial Video Planning](https://docs.google.com/document/d/1pmxFyKSLNr4loop0dk8GVfcZc4uLqOu5QMKLTimWJQI/edit?usp=sharing) by Friday, April 18.
+
 ## Day 36: Friday, April 11, 2025
 
 ### Day 36: In class
