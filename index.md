@@ -14,7 +14,7 @@
 
 ### Day 38: Outside of class
 
-- Complete homework from [FP4: Initial Video Planning](https://docs.google.com/document/d/1pmxFyKSLNr4loop0dk8GVfcZc4uLqOu5QMKLTimWJQI/edit?usp=sharing) by Friday, April 18.
+- Complete homework from [FP4: Initial Video Planning](https://docs.google.com/document/d/1pmxFyKSLNr4loop0dk8GVfcZc4uLqOu5QMKLTimWJQI/edit?usp=sharing) by Monday, April 21.
 
 ## Day 37: Monday, April 14, 2025
 
