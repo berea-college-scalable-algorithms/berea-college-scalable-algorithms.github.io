@@ -6,6 +6,16 @@
 
 ---
 
+## Day 38: Wednesday, April 16, 2025
+
+### Day 38: In class
+
+- Take Exam E2
+
+### Day 38: Outside of class
+
+- Complete homework from [FP4: Initial Video Planning](https://docs.google.com/document/d/1pmxFyKSLNr4loop0dk8GVfcZc4uLqOu5QMKLTimWJQI/edit?usp=sharing) by Friday, April 18.
+
 ## Day 37: Monday, April 14, 2025
 
 ### Day 37: In class
