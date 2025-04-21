@@ -6,6 +6,18 @@
 
 ---
 
+## Day 39: Monday, April 21, 2025
+
+### Day 39: In class
+
+- Work on [FP5: Refining Video Script](https://docs.google.com/document/d/1LmrgMpFXoQpx8PAQzO7ZFE6igsDhaWwEqu3acypqBGI/edit?usp=sharing)
+
+### Day 39: Outside of class
+
+- Complete homework from [FP5: Refining Video Script](https://docs.google.com/document/d/1LmrgMpFXoQpx8PAQzO7ZFE6igsDhaWwEqu3acypqBGI/edit?usp=sharing) 
+
+## No class on Friday, April 18, 2025. Enjoy the long weekend!
+
 ## Day 38: Wednesday, April 16, 2025
 
 ### Day 38: In class
