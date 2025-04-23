@@ -6,6 +6,16 @@
 
 ---
 
+## Day 40: Wednesday, April 23, 2025
+
+### Day 40: In class
+
+- Work on [FP6: Draft Complexity Analysis](https://docs.google.com/document/d/1Hq19RtxHDB_Pmu8Fnm0i2dynjX80wwpsbpQ00Rfu4n4/edit?usp=sharing)
+
+### Day 40: Outside of class
+
+[FP6: Draft Complexity Analysis](https://docs.google.com/document/d/1Hq19RtxHDB_Pmu8Fnm0i2dynjX80wwpsbpQ00Rfu4n4/edit?usp=sharing)
+
 ## Day 39: Monday, April 21, 2025
 
 ### Day 39: In class
