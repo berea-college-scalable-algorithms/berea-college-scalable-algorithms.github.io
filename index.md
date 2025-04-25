@@ -14,11 +14,11 @@
 
 ### Day 41: In class
 
-- Work on [FP7: Draft Slides for Final Project Presenation](https://docs.google.com/document/d/1E7PIGnFVXunhpfWmiv82C0LxR3f2LFKEDSPnjDOjSAs/edit?usp=sharing)
+- Work on [FP7: Draft Slides for Final Project Presentation](https://docs.google.com/document/d/1E7PIGnFVXunhpfWmiv82C0LxR3f2LFKEDSPnjDOjSAs/edit?usp=sharing)
 
 ### Day 41: Outside of class
 
-- Work on [FP7: Draft Slides for Final Project Presenation](https://docs.google.com/document/d/1E7PIGnFVXunhpfWmiv82C0LxR3f2LFKEDSPnjDOjSAs/edit?usp=sharing)
+- Work on [FP7: Draft Slides for Final Project Presentation](https://docs.google.com/document/d/1E7PIGnFVXunhpfWmiv82C0LxR3f2LFKEDSPnjDOjSAs/edit?usp=sharing) which is due at 8 am on Tuesday, April 29.
 - Consider attending the dedication of CMIT today at 4:30 pm and the open house afterwards.
 
 
