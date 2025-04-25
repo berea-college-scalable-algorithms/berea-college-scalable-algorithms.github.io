@@ -10,6 +10,18 @@
 
 - The Final Exam Period is 8:30 am on Friday, May 2, Project components due by 8 am on Friday, May 2
 
+## Day 41: Friday, April 25, 2025
+
+### Day 41: In class
+
+- Work on [FP7: Draft Slides for Final Project Presenation](https://docs.google.com/document/d/1E7PIGnFVXunhpfWmiv82C0LxR3f2LFKEDSPnjDOjSAs/edit?usp=sharing)
+
+### Day 41: Outside of class
+
+- Work on [FP7: Draft Slides for Final Project Presenation](https://docs.google.com/document/d/1E7PIGnFVXunhpfWmiv82C0LxR3f2LFKEDSPnjDOjSAs/edit?usp=sharing)
+- Consider attending the dedication of CMIT today at 4:30 pm and the open house afterwards.
+
+
 ## Day 40: Wednesday, April 23, 2025
 
 ### Day 40: In class
