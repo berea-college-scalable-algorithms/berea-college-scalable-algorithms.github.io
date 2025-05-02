@@ -9,6 +9,10 @@
 ### Final Exam Period
 
 - The Final Exam Period is 8:30 am on Friday, May 2, Project components due by 8 am on Friday, May 2
+  - Upload slides before presentation
+  - Peerwise - 2 short surveys in Assignments
+  - Team evaluations in Final Project area
+  - Presentations – 5 teams, 10 minutes each + 5 Q&A
 
 ## Day 41: Friday, April 25, 2025
 
